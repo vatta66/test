@@ -1,0 +1,3991 @@
+{
+  "edges": [
+    {
+      "fromNode": "0c70b64ba8165d37",
+      "fromSide": "bottom",
+      "id": "2515d67eacc71327",
+      "toNode": "c97047a929d2aca6",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "6a9c5b54701c11bf",
+      "fromSide": "bottom",
+      "id": "85648826fe323999",
+      "toNode": "0c70b64ba8165d37",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "5cfc0dc93bc4671a",
+      "fromSide": "right",
+      "id": "8182038744101b8e",
+      "toNode": "0c70b64ba8165d37",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "5cfc0dc93bc4671a",
+      "fromSide": "right",
+      "id": "54994acf321f70d6",
+      "toNode": "0c70b64ba8165d37",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "76a72337c566cef7",
+      "fromSide": "bottom",
+      "id": "da035a15bfcbe458",
+      "toNode": "6a9c5b54701c11bf",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "a665993d7e262c4f",
+      "fromSide": "bottom",
+      "id": "e467798e2150e12a",
+      "toNode": "6a9c5b54701c11bf",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "42def45de93931dc",
+      "fromSide": "bottom",
+      "id": "6cab66f4b86f9e81",
+      "toNode": "6a9c5b54701c11bf",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "6b9e4d3182a6265a",
+      "fromSide": "bottom",
+      "id": "aa7fd065172fc0d8",
+      "toNode": "6a9c5b54701c11bf",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "fb427564ad1b28a2",
+      "fromSide": "bottom",
+      "id": "6a0928b4a06301f2",
+      "toNode": "6a9c5b54701c11bf",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "5492c07484bf1b88",
+      "fromSide": "bottom",
+      "id": "d3271d2f8205082a",
+      "toNode": "6a9c5b54701c11bf",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "d78658f0ee927e65",
+      "fromSide": "right",
+      "id": "ee8141f133fa0aa4",
+      "toNode": "a665993d7e262c4f",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d78658f0ee927e65",
+      "fromSide": "bottom",
+      "id": "319f195f824f438c",
+      "toNode": "5cfc0dc93bc4671a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "2734daf5d108d320",
+      "fromSide": "left",
+      "id": "13d1b780fab1b5e2",
+      "toNode": "fb427564ad1b28a2",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "d1adff24076038b8",
+      "fromSide": "left",
+      "id": "f38d910a12646443",
+      "toNode": "4cac7474026ec471",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "5492c07484bf1b88",
+      "fromSide": "left",
+      "id": "58aa637ecf2b3a56",
+      "toNode": "fc1e611c986289c8",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "ea6ed3fd55f74bb5",
+      "fromSide": "right",
+      "id": "9fba33d691fc378a",
+      "toNode": "fc1e611c986289c8",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b7a5ed29780ccfcc",
+      "fromSide": "bottom",
+      "id": "bee3c0e481fee48f",
+      "toNode": "5cfc0dc93bc4671a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "89ee1b66b138925b",
+      "fromSide": "right",
+      "id": "d79face876bea568",
+      "toNode": "5cfc0dc93bc4671a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d77c4941c388b2f9",
+      "fromSide": "bottom",
+      "id": "b07de9f921c39b04",
+      "toNode": "5cfc0dc93bc4671a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1e51b226289a8061",
+      "fromSide": "top",
+      "id": "c5c558c96ff9c648",
+      "toNode": "5cfc0dc93bc4671a",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "79451336a5c3123b",
+      "fromSide": "top",
+      "id": "0bd30cb72083d75d",
+      "toNode": "5cfc0dc93bc4671a",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "38a0c1dadd026aee",
+      "fromSide": "right",
+      "id": "807da37f6f1ffb05",
+      "toNode": "89ee1b66b138925b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8c9826a37ee63b3b",
+      "fromSide": "left",
+      "id": "fe5202a8725d6f53",
+      "toNode": "25842a7b9f500b8b",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "25842a7b9f500b8b",
+      "fromSide": "left",
+      "id": "0a4b1a02f3ed4080",
+      "toNode": "d77c4941c388b2f9",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "25842a7b9f500b8b",
+      "fromSide": "left",
+      "id": "26506f3a46c1bc47",
+      "toNode": "79451336a5c3123b",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "8305e6bad8cfce9d",
+      "fromSide": "top",
+      "id": "b4b335bd20b7acb5",
+      "toNode": "25842a7b9f500b8b",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "d67153155505fe12",
+      "fromSide": "top",
+      "id": "9d106f02add56b53",
+      "toNode": "8305e6bad8cfce9d",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "b41c532c72dc69b4",
+      "fromSide": "top",
+      "id": "6f58ce2756836822",
+      "toNode": "5cfc0dc93bc4671a",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "25842a7b9f500b8b",
+      "fromSide": "left",
+      "id": "6224989d809df051",
+      "toNode": "b41c532c72dc69b4",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "ee56a97f33dccb7c",
+      "fromSide": "top",
+      "id": "5641a78f40855c52",
+      "toNode": "5cfc0dc93bc4671a",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "38f6d83a93c93058",
+      "fromSide": "top",
+      "id": "b217febb745f3ad5",
+      "toNode": "5cfc0dc93bc4671a",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "ee56a97f33dccb7c",
+      "fromSide": "right",
+      "id": "894312ba5fe564dd",
+      "toNode": "38f6d83a93c93058",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4ce6acffdaa15b3b",
+      "fromSide": "top",
+      "id": "9fd6a977c864a801",
+      "toNode": "ee56a97f33dccb7c",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "484c35543d29ee9f",
+      "fromSide": "top",
+      "id": "28d487a140887c5b",
+      "toNode": "8d8b27cf8e9f08a4",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "484c35543d29ee9f",
+      "fromSide": "top",
+      "id": "f86b48f8f294e158",
+      "toNode": "25842a7b9f500b8b",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "484c35543d29ee9f",
+      "fromSide": "right",
+      "id": "e9ae1244e6715a57",
+      "toNode": "29a205042f23d782",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "de093f87fb1992dc",
+      "fromSide": "top",
+      "id": "1a22dd6f6b19a774",
+      "toNode": "d67153155505fe12",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "2f2c1881ff40bd45",
+      "fromSide": "right",
+      "id": "d81637693caf00cc",
+      "toNode": "caddb7abfbff5cdf",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e852ab02a8d3dc2a",
+      "fromSide": "bottom",
+      "id": "2299ba9b57d917fa",
+      "toNode": "31b1d19e69610716",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "03112545af0e3c28",
+      "fromSide": "left",
+      "id": "ed8e22d89342dc0b",
+      "toNode": "0c70b64ba8165d37",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "2f2c1881ff40bd45",
+      "fromSide": "bottom",
+      "id": "93f389ea63d6bd89",
+      "toNode": "324dc611c4dd6671",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "3cc2589e34caf00e",
+      "fromSide": "bottom",
+      "id": "466462f9073a866e",
+      "toNode": "6a9c5b54701c11bf",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "139e881a02b17f07",
+      "fromSide": "top",
+      "id": "f0b367bb9d617021",
+      "toNode": "6a9c5b54701c11bf",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "139e881a02b17f07",
+      "fromSide": "top",
+      "id": "cbf5166ad5821c27",
+      "toNode": "5df3726b0bb87a1d",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "139e881a02b17f07",
+      "fromSide": "right",
+      "id": "809471efd5f681f8",
+      "toNode": "46871817ceb9c7cd",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "5df3726b0bb87a1d",
+      "fromSide": "bottom",
+      "id": "ebeb1633eadf1fbb",
+      "toNode": "0c70b64ba8165d37",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "947b9192e530abec",
+      "fromSide": "bottom",
+      "id": "53af572c7deae425",
+      "toNode": "78fb3814c1aeb5e8",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "139e881a02b17f07",
+      "fromSide": "bottom",
+      "id": "6e96e285aed42040",
+      "toNode": "9a540d19a402f792",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4cac7474026ec471",
+      "fromSide": "top",
+      "id": "203bfed21d17f4f9",
+      "toNode": "2734daf5d108d320",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "50cabf472d7025c9",
+      "fromSide": "bottom",
+      "id": "e3fd2faf317f6dee",
+      "toNode": "0c70b64ba8165d37",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "50cabf472d7025c9",
+      "fromSide": "top",
+      "id": "6f95679b8b8d707c",
+      "toNode": "4cac7474026ec471",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "4cac7474026ec471",
+      "fromSide": "right",
+      "id": "3967851becba9bfe",
+      "toNode": "271d10fd1f5f78b5",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "5df3726b0bb87a1d",
+      "fromSide": "top",
+      "id": "c03f89668e77d779",
+      "toNode": "09ef0e74b5f1520b",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "91394e1d2c343b3d",
+      "fromSide": "top",
+      "id": "e75a687810833568",
+      "toNode": "51c873020b484a21",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "91394e1d2c343b3d",
+      "fromSide": "bottom",
+      "id": "92233c5d167a0509",
+      "toNode": "647facae7d0a8628",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "324dc611c4dd6671",
+      "fromSide": "left",
+      "id": "5134c263445c5fb3",
+      "toNode": "51c873020b484a21",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "46610f0a7e5f25a5",
+      "fromSide": "left",
+      "id": "0ff111d9035b7ef6",
+      "toNode": "d67153155505fe12",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "f945c72a9781eda1",
+      "fromSide": "left",
+      "id": "bf21f0b8ac9b2cbc",
+      "toNode": "d67153155505fe12",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "4fabbe15ba6dd17c",
+      "fromSide": "bottom",
+      "id": "179c5c07fb48f4fd",
+      "toNode": "f945c72a9781eda1",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "6fa94e9362f055f5",
+      "fromSide": "top",
+      "id": "26b2cdb5052e6d85",
+      "toNode": "647facae7d0a8628",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "91394e1d2c343b3d",
+      "fromSide": "left",
+      "id": "eb7627ad51e93dab",
+      "toNode": "0c70b64ba8165d37",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "91f700f39ce87ad4",
+      "fromSide": "right",
+      "id": "4e25f9b455d825ea",
+      "toNode": "dd0f46f5d4f1e874",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "647facae7d0a8628",
+      "fromSide": "bottom",
+      "id": "d3b705d463e6ecac",
+      "toNode": "dd0f46f5d4f1e874",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "b215e707341d1b3c",
+      "fromSide": "bottom",
+      "id": "14ff006873db4682",
+      "toNode": "03a06254d203d07e",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "b215e707341d1b3c",
+      "fromSide": "top",
+      "id": "62386f54f04d06e5",
+      "toNode": "098cfe283bff3819",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "647facae7d0a8628",
+      "fromSide": "right",
+      "id": "5399b7aca5640675",
+      "toNode": "61772c27e6d0feee",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "91f700f39ce87ad4",
+      "fromSide": "right",
+      "id": "301c82fbd8e6a280",
+      "toNode": "61772c27e6d0feee",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "d130c74274359f84",
+      "fromSide": "right",
+      "id": "02819bf23e04b71e",
+      "toNode": "b0caafc9b48fc93d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d130c74274359f84",
+      "fromSide": "right",
+      "id": "e3194aecf5d54d36",
+      "toNode": "85e5f01c7aa019dd",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d130c74274359f84",
+      "fromSide": "top",
+      "id": "436259fec748af0d",
+      "toNode": "7068a1892cf8aeca",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "7f6debd7d8dfa2e3",
+      "fromSide": "right",
+      "id": "af48f2cc008d49f0",
+      "toNode": "7797936a90f58762",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "7797936a90f58762",
+      "fromSide": "bottom",
+      "id": "73baff5234898d08",
+      "toNode": "6b9e4d3182a6265a",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "9b839ac5580b2b8e",
+      "fromSide": "top",
+      "id": "7350c5b3d62f492b",
+      "toNode": "4fabbe15ba6dd17c",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "9b839ac5580b2b8e",
+      "fromSide": "right",
+      "id": "5e78b06b5ec8eb65",
+      "toNode": "6f904132f6ff361b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "6f904132f6ff361b",
+      "fromSide": "top",
+      "id": "f8eff6f8d166b002",
+      "toNode": "647facae7d0a8628",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "8d8b27cf8e9f08a4",
+      "fromSide": "bottom",
+      "id": "362cdc5aa4983c98",
+      "toNode": "647facae7d0a8628",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "29a205042f23d782",
+      "fromSide": "bottom",
+      "id": "eda6efff14515668",
+      "toNode": "29653456766b528e",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "d130c74274359f84",
+      "fromSide": "bottom",
+      "id": "805ea67a02861cdf",
+      "toNode": "7f6debd7d8dfa2e3",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "eeb7a4fe80d2db5d",
+      "fromSide": "left",
+      "id": "5ed55df8ff5ad378",
+      "toNode": "40922cccd5d8d618",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "07edfe2aeca8cdf7",
+      "fromSide": "left",
+      "id": "7102eeaeceda37b5",
+      "toNode": "40922cccd5d8d618",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "ce09d21a17fba318",
+      "fromSide": "right",
+      "id": "b0959026b57489ff",
+      "toNode": "647facae7d0a8628",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "784762e3cdef20e7",
+      "fromSide": "right",
+      "id": "ccf84f2dfeaac9d4",
+      "toNode": "beaaf56a559db5e3",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "fcb4b8f62909b0f8",
+      "fromSide": "right",
+      "id": "57f3efba3f681b4b",
+      "toNode": "beaaf56a559db5e3",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "beaaf56a559db5e3",
+      "fromSide": "right",
+      "id": "0ddd651c37c28934",
+      "toNode": "41822bf44e9ad6d4",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "beaaf56a559db5e3",
+      "fromSide": "right",
+      "id": "94c96b5890d3b25a",
+      "toNode": "18aa79b30dd0f907",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "18aa79b30dd0f907",
+      "fromSide": "bottom",
+      "id": "21de08d5bff1d8bc",
+      "toNode": "41822bf44e9ad6d4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "784762e3cdef20e7",
+      "fromSide": "right",
+      "id": "cc5c766aa6f9754d",
+      "toNode": "41822bf44e9ad6d4",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "20bd11fe7c00862c",
+      "fromSide": "top",
+      "id": "9c558ee3c20e4db7",
+      "toNode": "0c70b64ba8165d37",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "fe4e16ffb5139bac",
+      "fromSide": "bottom",
+      "id": "6008400d60515476",
+      "toNode": "78c76dfae6431e7b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c73cb4bc7e43b77d",
+      "fromSide": "bottom",
+      "id": "02e117018018df34",
+      "toNode": "7db4df3ed0ef9656",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c73cb4bc7e43b77d",
+      "fromSide": "left",
+      "id": "e2800bb527d80774",
+      "toNode": "acb9359b3e2382c3",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "c73cb4bc7e43b77d",
+      "fromSide": "right",
+      "id": "2a1db9e2e1f04dcf",
+      "toNode": "ebc8512b9d45021e",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c73cb4bc7e43b77d",
+      "fromSide": "top",
+      "id": "f9db76f4c1d5f353",
+      "toNode": "13e89cdf424fad4e",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "13e89cdf424fad4e",
+      "fromSide": "top",
+      "id": "6b1b24aad7aabecd",
+      "toNode": "982e48b0c161685d",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "13e89cdf424fad4e",
+      "fromSide": "top",
+      "id": "d7a62ce7ef7b5779",
+      "toNode": "6181eef796b1dab7",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "6181eef796b1dab7",
+      "fromSide": "top",
+      "id": "6931d7611f4f2426",
+      "toNode": "3c702a88cb95dc3f",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "3c702a88cb95dc3f",
+      "fromSide": "right",
+      "id": "10280971ebabf963",
+      "toNode": "10c184bf2f63e748",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "10c184bf2f63e748",
+      "fromSide": "bottom",
+      "id": "bd7da01f4bc5eaec",
+      "toNode": "1493b2203a15a73d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "10c184bf2f63e748",
+      "fromSide": "right",
+      "id": "185253ff85929c9d",
+      "toNode": "133cca0710326b38",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c73cb4bc7e43b77d",
+      "fromSide": "top",
+      "id": "56dba98a28a55ed4",
+      "toNode": "133cca0710326b38",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "133cca0710326b38",
+      "fromSide": "right",
+      "id": "1fb7a6a42fe4a8dd",
+      "toNode": "dc53d61a88d62b14",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "10c184bf2f63e748",
+      "fromSide": "top",
+      "id": "f3fc2e305b8236b5",
+      "toNode": "dc53d61a88d62b14",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c73cb4bc7e43b77d",
+      "fromSide": "top",
+      "id": "79c9ceda23130d21",
+      "toNode": "d32a26eb859ca58c",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "05713438c90b9f4a",
+      "fromSide": "bottom",
+      "id": "f295ef685e364092",
+      "toNode": "d32a26eb859ca58c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "d32a26eb859ca58c",
+      "fromSide": "left",
+      "id": "eb8d1e464dafd875",
+      "toNode": "a2154f8c7df5e32c",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "d32a26eb859ca58c",
+      "fromSide": "bottom",
+      "id": "8b972115121696bd",
+      "toNode": "2a55a37d0e0ef8c8",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c73cb4bc7e43b77d",
+      "fromSide": "bottom",
+      "id": "6d8015221e113009",
+      "toNode": "2a55a37d0e0ef8c8",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "c73cb4bc7e43b77d",
+      "fromSide": "bottom",
+      "id": "74782e8f13612ad6",
+      "toNode": "2df4a92f8dacbc95",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "2df4a92f8dacbc95",
+      "fromSide": "bottom",
+      "id": "868020be5db9f7f3",
+      "toNode": "9ef09cc23b6c8788",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "cdddaa127245d97b",
+      "fromSide": "bottom",
+      "id": "18548251a89ab262",
+      "toNode": "1d6697ad904cb451",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "cdddaa127245d97b",
+      "fromSide": "bottom",
+      "id": "de1a0f83efd74720",
+      "toNode": "3f6c6968ca052d91",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c73cb4bc7e43b77d",
+      "fromSide": "top",
+      "id": "620127004a111658",
+      "toNode": "47fa0d2fb3b62959",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b63ba66ee69a6a78",
+      "fromSide": "left",
+      "id": "8b502c032b4b1465",
+      "toNode": "a5f51bfa315ee1c8",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "6181eef796b1dab7",
+      "fromSide": "top",
+      "id": "faf496bb5f46d7a4",
+      "toNode": "5358cf5213153a96",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "9ef09cc23b6c8788",
+      "fromSide": "bottom",
+      "id": "e7110fa892149cbe",
+      "toNode": "5f5ea575e6dc043f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c73cb4bc7e43b77d",
+      "fromSide": "bottom",
+      "id": "f95e34c5e460a0da",
+      "toNode": "e63473b544e52a8f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e63473b544e52a8f",
+      "fromSide": "right",
+      "id": "395055afd0b3fef7",
+      "toNode": "a9154cdd649e1af8",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "2df4a92f8dacbc95",
+      "fromSide": "bottom",
+      "id": "a7a6df7592d6f70c",
+      "toNode": "cdddaa127245d97b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "8b202493fcbdf833",
+      "fromSide": "top",
+      "id": "692458c91ec469b5",
+      "toNode": "c73cb4bc7e43b77d",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "47fa0d2fb3b62959",
+      "fromSide": "right",
+      "id": "2ad5788464829c0e",
+      "toNode": "6ceaabf155bda469",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "2023b67c7da0a8f0",
+      "fromSide": "right",
+      "id": "88d210ba838a8163",
+      "toNode": "2a55a37d0e0ef8c8",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "06ffbfd678a0ba8c",
+      "fromSide": "right",
+      "id": "2d669c3c6537b1eb",
+      "toNode": "a2154f8c7df5e32c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "a2154f8c7df5e32c",
+      "fromSide": "bottom",
+      "id": "15ec2d42df045d25",
+      "toNode": "2023b67c7da0a8f0",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "0d549998d324fe9b",
+      "fromSide": "right",
+      "id": "4ba0bc61e142ef12",
+      "toNode": "2023b67c7da0a8f0",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0d549998d324fe9b",
+      "fromSide": "right",
+      "id": "568705f8b5111865",
+      "toNode": "06ffbfd678a0ba8c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0d549998d324fe9b",
+      "fromSide": "top",
+      "id": "eea3477f884b5133",
+      "toNode": "22dab76ef6f7b7db",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "10c184bf2f63e748",
+      "fromSide": "top",
+      "id": "48e71baa7a7a8020",
+      "toNode": "0a8c14991cb7b06f",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0a8c14991cb7b06f",
+      "fromSide": "bottom",
+      "id": "283d409cb22a705c",
+      "toNode": "1493b2203a15a73d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "76b422bee843dc31",
+      "fromSide": "top",
+      "id": "13a55ea4ff7ca863",
+      "toNode": "152f40a1a1a0a1b4",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "203936ced0f9f02e",
+      "fromSide": "top",
+      "id": "2632e4d706ef2aec",
+      "toNode": "5f5ea575e6dc043f",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "203936ced0f9f02e",
+      "fromSide": "bottom",
+      "id": "fa73e360f7fd49dc",
+      "toNode": "397664035aab84c4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c73cb4bc7e43b77d",
+      "fromSide": "bottom",
+      "id": "9725b5e278004b71",
+      "toNode": "a91580714abbfedd",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "a91580714abbfedd",
+      "fromSide": "bottom",
+      "id": "64f643834da7e630",
+      "toNode": "203936ced0f9f02e",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "ebb8ccae3b4c2226",
+      "fromSide": "bottom",
+      "id": "026c7a6be3da0c28",
+      "toNode": "a91580714abbfedd",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "32d5b1a36de2a631",
+      "fromSide": "bottom",
+      "id": "efeeda518a32eb20",
+      "toNode": "db313c5dbc8c1bce",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "db313c5dbc8c1bce",
+      "fromSide": "right",
+      "id": "10e2b0a35fc6f7a2",
+      "toNode": "b808c5d893a42701",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b808c5d893a42701",
+      "fromSide": "bottom",
+      "id": "0f4474e772e3138d",
+      "toNode": "3bf9f5b0fd57d482",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "097e1786a8e79939",
+      "fromSide": "right",
+      "id": "6f29fca8a36dd9f9",
+      "toNode": "32d5b1a36de2a631",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "920e362614a4427e",
+      "fromSide": "bottom",
+      "id": "4108911b49045f4f",
+      "toNode": "6b30cdb09d924104",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "6b30cdb09d924104",
+      "fromSide": "bottom",
+      "id": "2e55675eaa9c8a92",
+      "toNode": "9a540d19a402f792",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "6b30cdb09d924104",
+      "fromSide": "bottom",
+      "id": "1e6d40954962d721",
+      "toNode": "7e61e79f450eab51",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "5f5ea575e6dc043f",
+      "fromSide": "bottom",
+      "id": "5c48742facd51559",
+      "toNode": "7e61e79f450eab51",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "1f38122491ec638b",
+      "fromSide": "bottom",
+      "id": "664c9ad2edfd4db1",
+      "toNode": "b3a3a66901212fff",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "5f5ea575e6dc043f",
+      "fromSide": "left",
+      "id": "63031ee331ef7826",
+      "toNode": "b3a3a66901212fff",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "b3a3a66901212fff",
+      "fromSide": "bottom",
+      "id": "19082769d75b27ab",
+      "toNode": "7e61e79f450eab51",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "a91580714abbfedd",
+      "fromSide": "left",
+      "id": "bc4ffd652cafd5a7",
+      "toNode": "920e362614a4427e",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "a91580714abbfedd",
+      "fromSide": "left",
+      "id": "9f1cb19f99669e2c",
+      "toNode": "1f38122491ec638b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "a91580714abbfedd",
+      "fromSide": "left",
+      "id": "d66efab60e853df8",
+      "toNode": "ba7feb24a76f4fa8",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "a91580714abbfedd",
+      "fromSide": "left",
+      "id": "710f6c1c9d5fa3f7",
+      "toNode": "bb6dfc085ed720dd",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "a91580714abbfedd",
+      "fromSide": "right",
+      "id": "ef102dd9b289f924",
+      "toNode": "ec8130c97e35efe9",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "bb6dfc085ed720dd",
+      "fromSide": "top",
+      "id": "e3ae35dd428d2639",
+      "toNode": "dfb36dda45cb14f2",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "2023b67c7da0a8f0",
+      "fromSide": "bottom",
+      "id": "f02bdefd1e8f10e3",
+      "toNode": "dfb36dda45cb14f2",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "f8b8e5a9a1604feb",
+      "fromSide": "bottom",
+      "id": "08d62eb4212afe72",
+      "toNode": "81ec1a40d0a8f155",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f8b8e5a9a1604feb",
+      "fromSide": "bottom",
+      "id": "7f61667cffa8e91b",
+      "toNode": "71dd7dd183593eb4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "a91580714abbfedd",
+      "fromSide": "bottom",
+      "id": "a119185fca66929d",
+      "toNode": "c83a5b49c5cc6459",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "0a94126cd044e724",
+      "fromSide": "left",
+      "id": "2516e2bae2e8d67e",
+      "toNode": "b63ba66ee69a6a78",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "c73cb4bc7e43b77d",
+      "fromSide": "top",
+      "id": "14a1ccd507c3dfe5",
+      "toNode": "0a94126cd044e724",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "69986d427e140f9d",
+      "fromSide": "right",
+      "id": "3e9dc0aaec021f25",
+      "toNode": "cbed5a8a74486b96",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8fa11746aa6de8cd",
+      "fromSide": "right",
+      "id": "81982c30140ef01c",
+      "toNode": "43bd7fcdf55148c2",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a9da0aec6eaa15b0",
+      "fromSide": "bottom",
+      "id": "00e1d040f4a44ee7",
+      "toNode": "8fa11746aa6de8cd",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "bb6755b8022e884c",
+      "fromSide": "bottom",
+      "id": "bb813463ecc9f1e0",
+      "toNode": "8fa11746aa6de8cd",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "43bd7fcdf55148c2",
+      "fromSide": "right",
+      "id": "96f66753f77b31a5",
+      "toNode": "bb6755b8022e884c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "43bd7fcdf55148c2",
+      "fromSide": "top",
+      "id": "819f547cafee2296",
+      "toNode": "5e9454d34ed36d22",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "5e9454d34ed36d22",
+      "fromSide": "right",
+      "id": "3a95cac9d198e8e4",
+      "toNode": "bb6755b8022e884c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8fa11746aa6de8cd",
+      "fromSide": "top",
+      "id": "d5f952d870e93042",
+      "toNode": "5e9454d34ed36d22",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "cbed5a8a74486b96",
+      "fromSide": "right",
+      "id": "994b10547758df46",
+      "toNode": "838a0fc5d91d1bf7",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4059879e08dd818a",
+      "fromSide": "bottom",
+      "id": "2628dfde4be5779c",
+      "toNode": "48e478ec52969bf4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4059879e08dd818a",
+      "fromSide": "bottom",
+      "id": "dcd2fffa1c387b36",
+      "toNode": "6f2785c3b1196a45",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "d46ddcb80128875f",
+      "fromSide": "right",
+      "id": "317eda7fff7b93d9",
+      "toNode": "eeaf78f95225a115",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1d6697ad904cb451",
+      "fromSide": "bottom",
+      "id": "1fb7fed4bfea1250",
+      "toNode": "eeaf78f95225a115",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1587b539ecc8312e",
+      "fromSide": "right",
+      "id": "96351b75feb9746e",
+      "toNode": "20873330c1031d03",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ab6fdf17d939f8ee",
+      "fromSide": "right",
+      "id": "7bca53ff9f04d00b",
+      "toNode": "10f2eb786fc159d6",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "20873330c1031d03",
+      "fromSide": "right",
+      "id": "68838b830425a3ff",
+      "toNode": "10f2eb786fc159d6",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "9a540d19a402f792",
+      "fromSide": "bottom",
+      "id": "7786895e83c0d9a3",
+      "toNode": "e4047002415c4b15",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "40922cccd5d8d618",
+      "fromSide": "bottom",
+      "id": "0745a0be9c7f45eb",
+      "toNode": "e4047002415c4b15",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "91f700f39ce87ad4",
+      "fromSide": "bottom",
+      "id": "807fc94ecb5a677f",
+      "toNode": "4317c34c59bbab4d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "d996392aa01a4d7c",
+      "fromSide": "top",
+      "id": "5e9717bd75e19e6d",
+      "toNode": "098cfe283bff3819",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "ef0dbf18e930d2f0",
+      "fromSide": "top",
+      "id": "b759fa0339b2859c",
+      "toNode": "d996392aa01a4d7c",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "75d7e4ad2319cdd7",
+      "fromSide": "left",
+      "id": "59cdfb392111b9df",
+      "toNode": "ef0dbf18e930d2f0",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "88f24082a0675d74",
+      "fromSide": "right",
+      "id": "800d5d175af8e44b",
+      "toNode": "9a540d19a402f792",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "88f24082a0675d74",
+      "fromSide": "right",
+      "id": "b342daf092ebc5af",
+      "toNode": "58074df316626336",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4317c34c59bbab4d",
+      "fromSide": "left",
+      "id": "141f08657bff86a4",
+      "toNode": "e4047002415c4b15",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "ebe91e8bb7922d0a",
+      "fromSide": "right",
+      "id": "73380a9462485d85",
+      "toNode": "91f700f39ce87ad4",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "327e6235c77715a2",
+      "fromSide": "top",
+      "id": "c3608c4d69cdb7ae",
+      "toNode": "91f700f39ce87ad4",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "ebe91e8bb7922d0a",
+      "fromSide": "left",
+      "id": "c0b70a6eb2cac9a8",
+      "toNode": "c9d21161c84e1394",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "23e64c60b12fc453",
+      "fromSide": "top",
+      "id": "934e71f650f50ab8",
+      "toNode": "ebe91e8bb7922d0a",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "11c6e3c78d771418",
+      "fromSide": "top",
+      "id": "a057c6dd3c4c0a78",
+      "toNode": "7bd256fb0c0e1898",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "11c6e3c78d771418",
+      "fromSide": "top",
+      "id": "99391d857eeb6119",
+      "toNode": "eafdd8efe29a2649",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "085391e080f190b7",
+      "fromSide": "right",
+      "id": "1b6bfe1a3b51d669",
+      "toNode": "91f700f39ce87ad4",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "7132cae24740729b",
+      "fromSide": "top",
+      "id": "ca5d876822d84469",
+      "toNode": "9b839ac5580b2b8e",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "7132cae24740729b",
+      "fromSide": "left",
+      "id": "1fdd7ee94728844f",
+      "toNode": "085391e080f190b7",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "327e6235c77715a2",
+      "fromSide": "right",
+      "id": "6997d77977783885",
+      "toNode": "538a9ac71c6441d7",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "f207b6d73df1b037",
+      "fromSide": "top",
+      "id": "3eaaac40530c5477",
+      "toNode": "085391e080f190b7",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "f207b6d73df1b037",
+      "fromSide": "top",
+      "id": "a2c136d376792862",
+      "toNode": "53627159c9b4b96d",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "3c2f5cf8a9dd8893",
+      "fromSide": "right",
+      "id": "857357ce519615b2",
+      "toNode": "cc2ec443824f98cb",
+      "toSide": "left"
+    },
+    {
+      "fromEnd": "arrow",
+      "fromNode": "21dedb9ef085cee0",
+      "fromSide": "right",
+      "id": "dc6788e3d02f29be",
+      "toNode": "2e39a836866d8354",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ec86d6a435ffcda5",
+      "fromSide": "bottom",
+      "id": "2a2d5fa5b2f5593a",
+      "toNode": "6b19e5b09ae8fde2",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "085391e080f190b7",
+      "fromSide": "bottom",
+      "id": "a15c1d67e091d832",
+      "toNode": "6b19e5b09ae8fde2",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f545693c2db3e646",
+      "fromSide": "left",
+      "id": "eb2fca077d078427",
+      "toNode": "6b19e5b09ae8fde2",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "498573e8d9d39d10",
+      "fromSide": "right",
+      "id": "8ee131e79aed92a3",
+      "toNode": "f67b11ea54861b83",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "53627159c9b4b96d",
+      "fromSide": "top",
+      "id": "9c0d087f9b152253",
+      "toNode": "49836c0f70cc6273",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "49836c0f70cc6273",
+      "fromSide": "bottom",
+      "id": "47d8cad1fc88b4cf",
+      "toNode": "085391e080f190b7",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "d0f44a37cee5e98e",
+      "fromSide": "right",
+      "id": "ee53ca80d40acbfb",
+      "toNode": "ec86d6a435ffcda5",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d0f44a37cee5e98e",
+      "fromSide": "top",
+      "id": "c2cd0e1aaf465237",
+      "toNode": "3c2f5cf8a9dd8893",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a608fdc8f14ea0b2",
+      "fromSide": "top",
+      "id": "3e581149cf30c18a",
+      "toNode": "9da0ad4cc1f79f78",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "a608fdc8f14ea0b2",
+      "fromSide": "top",
+      "id": "dd7ac0d91b684731",
+      "toNode": "6b19e5b09ae8fde2",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "2664b993ec56b505",
+      "fromSide": "left",
+      "id": "2dc60190023c81e8",
+      "toNode": "a608fdc8f14ea0b2",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "2664b993ec56b505",
+      "fromSide": "right",
+      "id": "818f944bfc255aee",
+      "toNode": "259ff49dad2ebc52",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "259ff49dad2ebc52",
+      "fromSide": "right",
+      "id": "23df80b7b169c1b1",
+      "toNode": "0dab3a461a34914a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0dab3a461a34914a",
+      "fromSide": "bottom",
+      "id": "1253296828cb017d",
+      "toNode": "305670a8d59842f1",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "305670a8d59842f1",
+      "fromSide": "right",
+      "id": "3115aebfc7c47416",
+      "toNode": "86ac8d33ddfc6fa2",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "2664b993ec56b505",
+      "fromSide": "bottom",
+      "id": "7f8e50bb07e44118",
+      "toNode": "465c36747d878877",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "465c36747d878877",
+      "fromSide": "right",
+      "id": "6954185d3a557c4f",
+      "toNode": "15b97f146d53cb14",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "15b97f146d53cb14",
+      "fromSide": "top",
+      "id": "4af7eedf7b148060",
+      "toNode": "9a540d19a402f792",
+      "toSide": "bottom"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 2303,
+      "id": "2c5ed3d8990d9c2f",
+      "label": "Экспозиция",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 3263,
+      "x": -904,
+      "y": -3213
+    },
+    {
+      "height": 1797,
+      "id": "098cfe283bff3819",
+      "label": "Гипотезы",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1442,
+      "x": 2516,
+      "y": -1280
+    },
+    {
+      "height": 1150,
+      "id": "2c9437ca7014a79c",
+      "label": "Формализация",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 2176,
+      "x": 4043,
+      "y": -224
+    },
+    {
+      "height": 1494,
+      "id": "91f700f39ce87ad4",
+      "label": "Сильные переживания из-за ошибок",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1474,
+      "x": 1686,
+      "y": 1306
+    },
+    {
+      "height": 1212,
+      "id": "a38d8b5296c95589",
+      "label": "Правила экспозиции",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1253,
+      "x": -884,
+      "y": -2142
+    },
+    {
+      "height": 782,
+      "id": "ce7b5697be4b3a05",
+      "label": "Я боюсь портить отношения с людьми",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1600,
+      "x": -62,
+      "y": 4400
+    },
+    {
+      "height": 690,
+      "id": "75cee234496d71b0",
+      "label": "Негатив из за мелочей",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1780,
+      "x": -1940,
+      "y": 2310
+    },
+    {
+      "height": 932,
+      "id": "e4047002415c4b15",
+      "label": "Неспособность радоваться за других|зависть",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1288,
+      "x": 232,
+      "y": 1960
+    },
+    {
+      "height": 1096,
+      "id": "9a540d19a402f792",
+      "label": "Неэффективность рациональных мыслей",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 982,
+      "x": 500,
+      "y": 560
+    },
+    {
+      "height": 656,
+      "id": "4c2680f7f575c00f",
+      "label": "Негатив из за проигрышей в играх",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1208,
+      "x": 847,
+      "y": 3504
+    },
+    {
+      "height": 520,
+      "id": "647facae7d0a8628",
+      "label": "Страх выглядеть глупо",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1376,
+      "x": 1644,
+      "y": 640
+    },
+    {
+      "height": 507,
+      "id": "355095361e8d523a",
+      "label": "Поведенческий эксперимент",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1270,
+      "x": 2688,
+      "y": -1868
+    },
+    {
+      "height": 417,
+      "id": "538a9ac71c6441d7",
+      "label": "Убрать негатив",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1360,
+      "x": 2778,
+      "y": 3000
+    },
+    {
+      "height": 663,
+      "id": "6b19e5b09ae8fde2",
+      "label": "Негатив из за несправедливости",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 611,
+      "x": -62,
+      "y": 3497
+    },
+    {
+      "height": 400,
+      "id": "9da0ad4cc1f79f78",
+      "label": "Негатив из за денег",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 813,
+      "x": -1393,
+      "y": 3313
+    },
+    {
+      "height": 400,
+      "id": "76668b51f4489ba1",
+      "label": "Испытывание чувства вины и стыда",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 772,
+      "x": 1587,
+      "y": -367
+    },
+    {
+      "height": 364,
+      "id": "40922cccd5d8d618",
+      "label": "Нестабильная самооценка",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 777,
+      "x": 602,
+      "y": 33
+    },
+    {
+      "height": 231,
+      "id": "838a0fc5d91d1bf7",
+      "label": "Взаимодействие проблем гипотеза 2",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1095,
+      "x": 2611,
+      "y": -910
+    },
+    {
+      "height": 240,
+      "id": "1ffd49e1b67d7fdc",
+      "label": "Взаимодействие проблем гипотеза 1",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 948,
+      "x": 2611,
+      "y": -487
+    },
+    {
+      "height": 208,
+      "id": "26a59869a5201bd9",
+      "label": "Взаимодействие проблем гипотеза 3",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 934,
+      "x": 2611,
+      "y": -1221
+    },
+    {
+      "height": 60,
+      "id": "06ffbfd678a0ba8c",
+      "styleAttributes": {
+      },
+      "text": "Похоже на [[Отпускание]]",
+      "type": "text",
+      "width": 250,
+      "x": 35,
+      "y": -2760
+    },
+    {
+      "height": 60,
+      "id": "22dab76ef6f7b7db",
+      "styleAttributes": {
+      },
+      "text": "Происходит [[Угасание]]?",
+      "type": "text",
+      "width": 250,
+      "x": -241,
+      "y": -2903
+    },
+    {
+      "height": 121,
+      "id": "a2154f8c7df5e32c",
+      "styleAttributes": {
+      },
+      "text": "Нужно проживать ситуацию во всех подробностях, не отталкиваясь от эмоций, проживая их",
+      "type": "text",
+      "width": 347,
+      "x": 152,
+      "y": -2674
+    },
+    {
+      "height": 143,
+      "id": "1d6697ad904cb451",
+      "styleAttributes": {
+      },
+      "text": "От слабых стимулов в малом количестве идем к сильным стимулам в большом количестве",
+      "type": "text",
+      "width": 250,
+      "x": 652,
+      "y": -1927
+    },
+    {
+      "height": 70,
+      "id": "5f5ea575e6dc043f",
+      "styleAttributes": {
+      },
+      "text": "Много стимулов в разных контекстах сразу",
+      "type": "text",
+      "width": 250,
+      "x": 381,
+      "y": -1943
+    },
+    {
+      "height": 50,
+      "id": "a91580714abbfedd",
+      "styleAttributes": {
+      },
+      "text": "Правила",
+      "type": "text",
+      "width": 121,
+      "x": 108,
+      "y": -1922
+    },
+    {
+      "height": 210,
+      "id": "2023b67c7da0a8f0",
+      "styleAttributes": {
+      },
+      "text": "Вы должны думать приходящие мысли, не оценивая их, не отгоняя их (“да сколько можно об этом думать” и тд). Наблюдаете их",
+      "type": "text",
+      "width": 250,
+      "x": 85,
+      "y": -2500
+    },
+    {
+      "height": 60,
+      "id": "9ef09cc23b6c8788",
+      "styleAttributes": {
+      },
+      "text": "Наводнение",
+      "type": "text",
+      "width": 250,
+      "x": 381,
+      "y": -2050
+    },
+    {
+      "height": 107,
+      "id": "2a55a37d0e0ef8c8",
+      "styleAttributes": {
+      },
+      "text": "Затем - экспозиция в реальной жизни (in vivo). Более эффективна",
+      "type": "text",
+      "width": 250,
+      "x": 415,
+      "y": -2291
+    },
+    {
+      "height": 60,
+      "id": "ebb8ccae3b4c2226",
+      "styleAttributes": {
+      },
+      "text": "https://www.youtube.com/watch?v=fSaiTiAGyj8&ab_channel=%D0%90%D0%BD%D0%BE%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D0%BE%D0%BC%D1%8B%D1%81%D0%BB%D0%B8%D0%B5",
+      "type": "text",
+      "width": 250,
+      "x": 10,
+      "y": -2220
+    },
+    {
+      "height": 107,
+      "id": "a5f51bfa315ee1c8",
+      "styleAttributes": {
+      },
+      "text": "Нужно обучать детей контролю. Как это относится к экспозиции",
+      "type": "text",
+      "width": 250,
+      "x": 249,
+      "y": -2924
+    },
+    {
+      "height": 113,
+      "id": "6181eef796b1dab7",
+      "styleAttributes": {
+      },
+      "text": "Современное - основано на теории ингибиторного научения М. Кракса",
+      "type": "text",
+      "width": 288,
+      "x": 1180,
+      "y": -2674
+    },
+    {
+      "height": 239,
+      "id": "7e61e79f450eab51",
+      "styleAttributes": {
+      },
+      "text": "Поэтому, лучше начинать экспозицию с того, что очень для вас страшно - чтобы ожидания были как можно хуже (вы должны в них верить)",
+      "type": "text",
+      "width": 250,
+      "x": -758,
+      "y": -1220
+    },
+    {
+      "height": 70,
+      "id": "10f2eb786fc159d6",
+      "styleAttributes": {
+      },
+      "text": "Нестабильная самооценка",
+      "type": "text",
+      "width": 224,
+      "x": 3256,
+      "y": -1142
+    },
+    {
+      "height": 80,
+      "id": "ec8130c97e35efe9",
+      "styleAttributes": {
+      },
+      "text": "Длительность: не менее 20 минут, лучше больше",
+      "type": "text",
+      "width": 281,
+      "x": 31,
+      "y": -1814
+    },
+    {
+      "height": 268,
+      "id": "d46ddcb80128875f",
+      "styleAttributes": {
+      },
+      "text": "По моему опыту, основная сложность экспозиции - начать. Как только ты начинаешь, [[страх]] постепенно уходит, обычно где то за пару минут",
+      "type": "text",
+      "width": 250,
+      "x": 615,
+      "y": -1545
+    },
+    {
+      "height": 384,
+      "id": "eeaf78f95225a115",
+      "styleAttributes": {
+      },
+      "text": "Исходя из этого, можно дать совет: наращивайте уровень страха постепенно. Можете начать с чего то, что для вас проще, потом сразу перейти к более сложному. Например, начать танцевать на менее людной улице, затем перейти на более людную. Основной момент в том, что вы переходите к более страшному стимулу в рамках одной сессии",
+      "type": "text",
+      "width": 309,
+      "x": 992,
+      "y": -1573
+    },
+    {
+      "height": 78,
+      "id": "203936ced0f9f02e",
+      "styleAttributes": {
+      },
+      "text": "Частота: несколько рза в день, как можно больше",
+      "type": "text",
+      "width": 266,
+      "x": -218,
+      "y": -1795
+    },
+    {
+      "height": 355,
+      "id": "c83a5b49c5cc6459",
+      "styleAttributes": {
+      },
+      "text": "После сеанса должна происходить консолидация опыта экспозиции: нужно обсуждать с человеком (или с самим собой), что произошло с ним, что он чувствовал, оправдались ли его ожидания, когда было сложнее всего и тд.",
+      "type": "text",
+      "width": 250,
+      "x": 65,
+      "y": -1671
+    },
+    {
+      "height": 143,
+      "id": "397664035aab84c4",
+      "styleAttributes": {
+      },
+      "text": "Эффективным является постепенное снижение количества сеансов к концу курса",
+      "type": "text",
+      "width": 250,
+      "x": -210,
+      "y": -1651
+    },
+    {
+      "height": 107,
+      "id": "920e362614a4427e",
+      "styleAttributes": {
+      },
+      "text": "Чем хуже ожидания от терапии, тем лучше результаты",
+      "type": "text",
+      "width": 250,
+      "x": -844,
+      "y": -1606
+    },
+    {
+      "height": 210,
+      "id": "b3a3a66901212fff",
+      "styleAttributes": {
+      },
+      "text": "Максимально много триггеров и времени с ними. Вы должны как можно больше находится в ситуациях взаимодействия с ними",
+      "type": "text",
+      "width": 250,
+      "x": -508,
+      "y": -1473
+    },
+    {
+      "height": 143,
+      "id": "6b30cdb09d924104",
+      "styleAttributes": {
+      },
+      "text": "Сначала - экспозиция, потом - замена установок на рациональные",
+      "type": "text",
+      "width": 250,
+      "x": -844,
+      "y": -1440
+    },
+    {
+      "height": 70,
+      "id": "20873330c1031d03",
+      "styleAttributes": {
+      },
+      "text": "Сильные переживания из за ошибок",
+      "type": "text",
+      "width": 250,
+      "x": 2936,
+      "y": -1103
+    },
+    {
+      "height": 70,
+      "id": "1587b539ecc8312e",
+      "styleAttributes": {
+      },
+      "text": "Частое испытывание чувства вины",
+      "type": "text",
+      "width": 250,
+      "x": 2631,
+      "y": -1103
+    },
+    {
+      "height": 59,
+      "id": "ab6fdf17d939f8ee",
+      "styleAttributes": {
+      },
+      "text": "Боязнь выглядеть глупо",
+      "type": "text",
+      "width": 250,
+      "x": 2936,
+      "y": -1201
+    },
+    {
+      "height": 118,
+      "id": "bb6dfc085ed720dd",
+      "styleAttributes": {
+      },
+      "text": "Отказ от любых тактик избегания и охранительных приемов",
+      "type": "text",
+      "width": 271,
+      "x": -664,
+      "y": -1815
+    },
+    {
+      "height": 99,
+      "id": "1f38122491ec638b",
+      "styleAttributes": {
+      },
+      "text": "Ситуация должна быть гипертрофированной",
+      "type": "text",
+      "width": 250,
+      "x": -508,
+      "y": -1651
+    },
+    {
+      "height": 60,
+      "id": "7f6debd7d8dfa2e3",
+      "styleAttributes": {
+      },
+      "text": "Откуда это желание?",
+      "type": "text",
+      "width": 250,
+      "x": 887,
+      "y": -331
+    },
+    {
+      "height": 246,
+      "id": "d130c74274359f84",
+      "styleAttributes": {
+      },
+      "text": "хочу, чтобы учителя оценили то, насколько я умный, взрослый, насколько сложные у меня мысли.\nНо подумают, что я хвастаюсь. Поэтому я одновременно люблю и не люблю, когда меня хвалят, т.е. привлекают внимание",
+      "type": "text",
+      "width": 334,
+      "x": 845,
+      "y": -656
+    },
+    {
+      "height": 73,
+      "id": "5492c07484bf1b88",
+      "styleAttributes": {
+      },
+      "text": "https://www.youtube.com/watch?v=MykZ3tc1rqw&ab_channel=MarinaMogilko",
+      "type": "text",
+      "width": 279,
+      "x": -57,
+      "y": -698
+    },
+    {
+      "height": 177,
+      "id": "fb427564ad1b28a2",
+      "styleAttributes": {
+      },
+      "text": "Человек с высокой самооценкой уверенно встречает свои слабости, в отличие от человека с низкой самооценкой",
+      "type": "text",
+      "width": 314,
+      "x": -155,
+      "y": -498
+    },
+    {
+      "height": 70,
+      "id": "e5bfd53e189db695",
+      "styleAttributes": {
+      },
+      "text": "Как не испытывать чувство вины?",
+      "type": "text",
+      "width": 250,
+      "x": 1639,
+      "y": -292
+    },
+    {
+      "height": 107,
+      "id": "07edfe2aeca8cdf7",
+      "styleAttributes": {
+      },
+      "text": "Может быть причиной нестабильной самооценки",
+      "type": "text",
+      "width": 250,
+      "x": 1639,
+      "y": -191
+    },
+    {
+      "height": 102,
+      "id": "69986d427e140f9d",
+      "styleAttributes": {
+      },
+      "text": "[[Чувство стыда]] - ощущение несоответствия [[социальные нормы]], стандартам",
+      "type": "text",
+      "width": 285,
+      "x": 1601,
+      "y": -569
+    },
+    {
+      "height": 179,
+      "id": "ba7feb24a76f4fa8",
+      "styleAttributes": {
+      },
+      "text": "Ситуация должна сильно пугать вас, нет смысла задерживаться на промежуточных ощущениях",
+      "type": "text",
+      "width": 250,
+      "x": -288,
+      "y": -2038
+    },
+    {
+      "height": 239,
+      "id": "dfb36dda45cb14f2",
+      "styleAttributes": {
+      },
+      "text": "Любые дыхательные техники, [[Якорь в психологии]], и другие техники избавления от [[стресс]]а. Замена мыслей рациональными, любое другое самоуспокоение",
+      "type": "text",
+      "width": 250,
+      "x": -654,
+      "y": -2100
+    },
+    {
+      "height": 355,
+      "id": "0d549998d324fe9b",
+      "styleAttributes": {
+      },
+      "text": "Если совершать [[Подкрепление]] определенной мысли путем придавания ей оценки, обдумывания ассоцииированных с ней мыслей (у меня рак - надо почитать в интернете - надо проверить - что делать и тд), то эта мысль становится большей [[Учение о доминанте|доминанта]], которая поглощает ваш мозг и с большей вероятностью (из за подкрепления) повторится вновь. Поэтому отпускание эффективно",
+      "type": "text",
+      "width": 383,
+      "x": -421,
+      "y": -2721
+    },
+    {
+      "height": 71,
+      "id": "271d10fd1f5f78b5",
+      "styleAttributes": {
+      },
+      "text": "[[Принцип опоры на положительное в воспитании]]",
+      "type": "text",
+      "width": 310,
+      "x": 219,
+      "y": -763
+    },
+    {
+      "height": 59,
+      "id": "6a9c5b54701c11bf",
+      "styleAttributes": {
+      },
+      "text": "Низкая самооценка",
+      "type": "text",
+      "width": 328,
+      "x": -256,
+      "y": 41
+    },
+    {
+      "height": 88,
+      "id": "42def45de93931dc",
+      "styleAttributes": {
+      },
+      "text": "Все время хочет показать, какой он хороших - много хвастается",
+      "type": "text",
+      "width": 318,
+      "x": -57,
+      "y": -108
+    },
+    {
+      "height": 156,
+      "id": "6b9e4d3182a6265a",
+      "styleAttributes": {
+      },
+      "text": "[[Потребность]] самоутвердиться. Могут любить подчинять других, грубо себя вести",
+      "type": "text",
+      "width": 264,
+      "x": -192,
+      "y": -284
+    },
+    {
+      "height": 179,
+      "id": "fc1e611c986289c8",
+      "styleAttributes": {
+      },
+      "text": "Добиваются успеха люди, которые умеют отстаивать свои границы, чувствуют себя в праве быть успешными",
+      "type": "text",
+      "width": 298,
+      "x": -466,
+      "y": -758
+    },
+    {
+      "height": 115,
+      "id": "3cc2589e34caf00e",
+      "styleAttributes": {
+      },
+      "text": " ([[Советы по использованию тенденции к разрешению когнитивного диссонанса]])",
+      "type": "text",
+      "width": 370,
+      "x": -538,
+      "y": -467
+    },
+    {
+      "height": 143,
+      "id": "ea6ed3fd55f74bb5",
+      "styleAttributes": {
+      },
+      "text": "Похоже на идеи Раскольникова в [[Преступление и наказание]]",
+      "type": "text",
+      "width": 250,
+      "x": -893,
+      "y": -698
+    },
+    {
+      "height": 210,
+      "id": "a665993d7e262c4f",
+      "styleAttributes": {
+      },
+      "text": "Нет своего мнения.\nЭто не [[Неумение формулирования мнения]], а боязнь сделать это и высказать его",
+      "type": "text",
+      "width": 250,
+      "x": -466,
+      "y": -301
+    },
+    {
+      "height": 274,
+      "id": "d78658f0ee927e65",
+      "styleAttributes": {
+      },
+      "text": "1. [[Привычка задавать вопросы]] “что я думаю по этому поводу?”. Также будет являться развитием [[Критическое мышление]]\n2. Преодаление страха высказать это мнение - больше делать это + другие техники борьбы с боязнью мнения окружающих",
+      "type": "text",
+      "width": 355,
+      "x": -893,
+      "y": -307
+    },
+    {
+      "height": 50,
+      "id": "50cabf472d7025c9",
+      "styleAttributes": {
+      },
+      "text": "Формируется в детстве? Как?",
+      "type": "text",
+      "width": 291,
+      "x": -163,
+      "y": 200
+    },
+    {
+      "height": 143,
+      "id": "4cac7474026ec471",
+      "styleAttributes": {
+      },
+      "text": "Часто указывали на ошибки в [[детство]], что сформировало боязнь мнения окружающих?",
+      "type": "text",
+      "width": 250,
+      "x": 261,
+      "y": -378
+    },
+    {
+      "height": 179,
+      "id": "d1adff24076038b8",
+      "styleAttributes": {
+      },
+      "text": "Имеет значение, как именно указывали на ошибки: могла развиться [[Установка на данность]]",
+      "type": "text",
+      "width": 250,
+      "x": 586,
+      "y": -399
+    },
+    {
+      "height": 63,
+      "id": "76a72337c566cef7",
+      "styleAttributes": {
+      },
+      "text": "Как повышать?",
+      "type": "text",
+      "width": 168,
+      "x": 461,
+      "y": -201
+    },
+    {
+      "height": 114,
+      "id": "2734daf5d108d320",
+      "styleAttributes": {
+      },
+      "text": "Не любят, когда им указывают на их недостатки, ошибки",
+      "type": "text",
+      "width": 250,
+      "x": 261,
+      "y": -581
+    },
+    {
+      "height": 59,
+      "id": "8fa11746aa6de8cd",
+      "styleAttributes": {
+      },
+      "text": "Боязнь выглядеть глупо",
+      "type": "text",
+      "width": 250,
+      "x": 2772,
+      "y": -761
+    },
+    {
+      "height": 70,
+      "id": "bb6755b8022e884c",
+      "styleAttributes": {
+      },
+      "text": "Нестабильная самооценка",
+      "type": "text",
+      "width": 250,
+      "x": 3430,
+      "y": -767
+    },
+    {
+      "height": 224,
+      "id": "162efbc137d91acc",
+      "styleAttributes": {
+      },
+      "text": "[[Стеснительность]] можно побороть следующей техникой: когда вы почувствуете неуверенность или стеснительность, вам нужно рассказать о ваших ощущениях человеку, с которым вы общаетесь",
+      "type": "text",
+      "width": 388,
+      "x": 3982,
+      "y": -1102
+    },
+    {
+      "height": 132,
+      "id": "85e5f01c7aa019dd",
+      "styleAttributes": {
+      },
+      "text": "Это из-за подавленных желаний делиться успехами?",
+      "type": "text",
+      "width": 281,
+      "x": 1274,
+      "y": -463
+    },
+    {
+      "height": 70,
+      "id": "7797936a90f58762",
+      "styleAttributes": {
+      },
+      "text": "Из-за стремления самоутвердиться?",
+      "type": "text",
+      "width": 250,
+      "x": 1128,
+      "y": -239
+    },
+    {
+      "height": 179,
+      "id": "b0caafc9b48fc93d",
+      "styleAttributes": {
+      },
+      "text": "хочу, чтобы учителя оценили то, насколько я умный, взрослый, насколько сложные у меня мысли",
+      "type": "text",
+      "width": 250,
+      "x": 1305,
+      "y": -697
+    },
+    {
+      "height": 70,
+      "id": "7068a1892cf8aeca",
+      "styleAttributes": {
+      },
+      "text": "Очень часто я хочу быть лучшим, первым",
+      "type": "text",
+      "width": 250,
+      "x": 1055,
+      "y": -804
+    },
+    {
+      "height": 143,
+      "id": "8d8b27cf8e9f08a4",
+      "styleAttributes": {
+      },
+      "text": "Есть конкретные вещи, совершая которые, я испытываю эти чувства?",
+      "type": "text",
+      "width": 250,
+      "x": 2874,
+      "y": 83
+    },
+    {
+      "height": 89,
+      "id": "18aa79b30dd0f907",
+      "styleAttributes": {
+      },
+      "text": "Неэффективность рациональных установок",
+      "type": "text",
+      "width": 294,
+      "x": 3245,
+      "y": -467
+    },
+    {
+      "height": 70,
+      "id": "beaaf56a559db5e3",
+      "styleAttributes": {
+      },
+      "text": "Нестабильная самооценка",
+      "type": "text",
+      "width": 250,
+      "x": 2936,
+      "y": -396
+    },
+    {
+      "height": 70,
+      "id": "43bd7fcdf55148c2",
+      "styleAttributes": {
+      },
+      "text": "Сильные переживания из за ошибок",
+      "type": "text",
+      "width": 250,
+      "x": 3100,
+      "y": -767
+    },
+    {
+      "height": 96,
+      "id": "a9da0aec6eaa15b0",
+      "styleAttributes": {
+      },
+      "text": "Неэффективность рациональных установок",
+      "type": "text",
+      "width": 294,
+      "x": 2625,
+      "y": -888
+    },
+    {
+      "height": 70,
+      "id": "5e9454d34ed36d22",
+      "styleAttributes": {
+      },
+      "text": "Частое испытывание чувства вины",
+      "type": "text",
+      "width": 250,
+      "x": 3100,
+      "y": -878
+    },
+    {
+      "height": 214,
+      "id": "fe4e16ffb5139bac",
+      "styleAttributes": {
+      },
+      "text": "Если я исправлю страх выглядеть глупо с помощью экспозиции, и это решит какую то другую мою проблему: частое чувство вины, сильные переживания из за ошибок или исправит нестабильную самооценку, нужно будет пересмотреть данную схему",
+      "type": "text",
+      "width": 391,
+      "x": 3519,
+      "y": -203
+    },
+    {
+      "height": 188,
+      "id": "78fb3814c1aeb5e8",
+      "styleAttributes": {
+      },
+      "text": "Нет, почти всегда я уверен, что имею полное право делать то, что я делаю. Например, потанцевать. посмотреть в зеркало в школе, поменять прическу и тд",
+      "type": "text",
+      "width": 338,
+      "x": 3160,
+      "y": 309
+    },
+    {
+      "height": 143,
+      "id": "31b1d19e69610716",
+      "styleAttributes": {
+      },
+      "text": "Не уверен, желание всегда будет подавляться, если я слишком сильно боюсь мнения окружающих. Даже любимая музыка не поможет мне, если я иду с колокной по улице. И целоваться с девушкой тоже так не получится",
+      "type": "text",
+      "width": 250,
+      "x": 3519,
+      "y": 331
+    },
+    {
+      "height": 70,
+      "id": "cbed5a8a74486b96",
+      "styleAttributes": {
+      },
+      "text": "Имеет место быть данная гипотеза: боязнь выглядеть глупо является причиной частого чувства вины и стыда",
+      "type": "text",
+      "width": 250,
+      "x": 2008,
+      "y": -544
+    },
+    {
+      "height": 70,
+      "id": "fcb4b8f62909b0f8",
+      "styleAttributes": {
+      },
+      "text": "Частое испытывание чувства вины и стыда",
+      "type": "text",
+      "width": 250,
+      "x": 2631,
+      "y": -337
+    },
+    {
+      "height": 297,
+      "id": "91394e1d2c343b3d",
+      "styleAttributes": {
+      },
+      "text": "Я начинаю что-то делать, потом замечаю людей вокруг меня, и приходят негативные ощущения, которые я как раз интерпретирую как боязнь мнения окружающих.\nИногда эти чувства похожи на чувства стыда, иногда - боязнь выглядеть глупо",
+      "type": "text",
+      "width": 290,
+      "x": 1886,
+      "y": 145
+    },
+    {
+      "height": 107,
+      "id": "51c873020b484a21",
+      "styleAttributes": {
+      },
+      "text": "Я очень часто испытываю [[чувство стыда]] и [[Чувство вины]] по всяким пустякам",
+      "type": "text",
+      "width": 295,
+      "x": 2031,
+      "y": -222
+    },
+    {
+      "height": 179,
+      "id": "252105ad07e8ebe7",
+      "styleAttributes": {
+      },
+      "text": "Здоровое [[Чувство вины]] направлено на то, на что мы можем повлиять (внутренний локус контроля)",
+      "type": "text",
+      "width": 250,
+      "x": 1814,
+      "y": -858
+    },
+    {
+      "height": 188,
+      "id": "b808c5d893a42701",
+      "styleAttributes": {
+      },
+      "text": "После человек с помощью психотерапевта [[Рефлексия]] над экспериментом, подтвердилась гипотеза или нет, заполняя специальные бланки",
+      "type": "text",
+      "width": 324,
+      "x": 3523,
+      "y": -1816
+    },
+    {
+      "height": 179,
+      "id": "29a205042f23d782",
+      "styleAttributes": {
+      },
+      "text": "Я испытываю негатив только в случаях, когда мне недостаточно нравится то, что я делаю?",
+      "type": "text",
+      "width": 250,
+      "x": 2546,
+      "y": 82
+    },
+    {
+      "height": 50,
+      "id": "29653456766b528e",
+      "styleAttributes": {
+      },
+      "text": "Скорее всего, это не так",
+      "type": "text",
+      "width": 250,
+      "x": 2546,
+      "y": 309
+    },
+    {
+      "height": 143,
+      "id": "3bf9f5b0fd57d482",
+      "styleAttributes": {
+      },
+      "text": "Постепенно, человек перестает верить в то, что прогнозировал ранее",
+      "type": "text",
+      "width": 250,
+      "x": 3597,
+      "y": -1569
+    },
+    {
+      "height": 70,
+      "id": "784762e3cdef20e7",
+      "styleAttributes": {
+      },
+      "text": "Сильные переживания из за ошибок",
+      "type": "text",
+      "width": 250,
+      "x": 2631,
+      "y": -466
+    },
+    {
+      "height": 179,
+      "id": "32d5b1a36de2a631",
+      "styleAttributes": {
+      },
+      "text": "Человек с проблемой создает гипотезу, как он будет чувствовать себя в определенной ситуации",
+      "type": "text",
+      "width": 250,
+      "x": 3187,
+      "y": -1812
+    },
+    {
+      "height": 60,
+      "id": "097e1786a8e79939",
+      "styleAttributes": {
+      },
+      "text": "Поведенческий эксперимент",
+      "type": "text",
+      "width": 293,
+      "x": 2810,
+      "y": -1663
+    },
+    {
+      "height": 107,
+      "id": "db313c5dbc8c1bce",
+      "styleAttributes": {
+      },
+      "text": "Мы создаем условия для проверки этой гипотезы - эксперимент",
+      "type": "text",
+      "width": 250,
+      "x": 3245,
+      "y": -1581
+    },
+    {
+      "height": 178,
+      "id": "8b202493fcbdf833",
+      "styleAttributes": {
+      },
+      "text": "У меня есть недоразвитый перфекционизм - избавиться с помощью экспозиции. Не подправлять рисунки, не стирать доску до конца и тд",
+      "type": "text",
+      "width": 315,
+      "x": 1343,
+      "y": -1545
+    },
+    {
+      "height": 179,
+      "id": "8c9826a37ee63b3b",
+      "styleAttributes": {
+      },
+      "text": "Рациональные мысли, опровержения данного страха вытеснили вопрос “а что они подумают”",
+      "type": "text",
+      "width": 250,
+      "x": 869,
+      "y": 580
+    },
+    {
+      "height": 284,
+      "id": "de093f87fb1992dc",
+      "styleAttributes": {
+      },
+      "text": "Но [[негативные эмоции]] остались, так что можно подумать, что это не страх мнения, а что то другое, раз мнение окружающих меня искренне не волнует",
+      "type": "text",
+      "width": 250,
+      "x": 674,
+      "y": 1335
+    },
+    {
+      "height": 107,
+      "id": "46610f0a7e5f25a5",
+      "styleAttributes": {
+      },
+      "text": "[[рациональность]] в данном случае неэффективна",
+      "type": "text",
+      "width": 250,
+      "x": 924,
+      "y": 1161
+    },
+    {
+      "height": 182,
+      "id": "d67153155505fe12",
+      "styleAttributes": {
+      },
+      "text": "Разумом я понимаю все, что нужно, но тело это не волнует, [[негативные эмоции]] не уходят",
+      "type": "text",
+      "width": 250,
+      "x": 520,
+      "y": 1070
+    },
+    {
+      "height": 107,
+      "id": "8305e6bad8cfce9d",
+      "styleAttributes": {
+      },
+      "text": "Я верю во все, что себе говорю в эти моменты и после",
+      "type": "text",
+      "width": 250,
+      "x": 520,
+      "y": 914
+    },
+    {
+      "height": 204,
+      "id": "38f6d83a93c93058",
+      "styleAttributes": {
+      },
+      "text": "Представьте жизнь как игру с квестами, миссиями, результатом. Таким образом вы отделите себя от проблемы, будете лишь игроком, наблюдателем. Негативный эффект тот же",
+      "type": "text",
+      "width": 345,
+      "x": 59,
+      "y": 923
+    },
+    {
+      "height": 102,
+      "id": "ee56a97f33dccb7c",
+      "styleAttributes": {
+      },
+      "text": "Моя [[Техника представления мира от третьего лица]] ",
+      "type": "text",
+      "width": 347,
+      "x": -437,
+      "y": 923
+    },
+    {
+      "height": 179,
+      "id": "25842a7b9f500b8b",
+      "styleAttributes": {
+      },
+      "text": "Я создал [[привычка]] думать определенные мысли во время того, как ощущаю эффект боязни чужого мнения.\n",
+      "type": "text",
+      "width": 250,
+      "x": 520,
+      "y": 643
+    },
+    {
+      "height": 210,
+      "id": "484c35543d29ee9f",
+      "styleAttributes": {
+      },
+      "text": "Если негативные установки были заменены продуктивными, может ли мое текущее состояние быть [[Привычка]] испытывать [[негативные эмоции]] в определенных ситуациях?",
+      "type": "text",
+      "width": 338,
+      "x": 966,
+      "y": 898
+    },
+    {
+      "height": 214,
+      "id": "b7a5ed29780ccfcc",
+      "styleAttributes": {
+      },
+      "text": "Техники образного воображения могут быть очень эффективны. Мозгу не важно, происходит что то в воображении или реальности (спорно)",
+      "type": "text",
+      "width": 284,
+      "x": -625,
+      "y": 87
+    },
+    {
+      "height": 220,
+      "id": "88f24082a0675d74",
+      "styleAttributes": {
+      },
+      "text": "[[Когнитивная реструктуризация]] не работает, наверное буду пробовать лучше, но пока нет. У меня нет негативных мыслей, ощущения просто появляются сами, я не верю в негативные мысли, я легко могу их опровергать, но это не убирает [[Негативные эмоции]]",
+      "type": "text",
+      "width": 455,
+      "x": -223,
+      "y": 1650
+    },
+    {
+      "height": 258,
+      "id": "20bd11fe7c00862c",
+      "styleAttributes": {
+      },
+      "text": " Скорее всего, это началось у меня еще раньше. Помню еще летом перед 7 классом не мог просить музыку на дискотеке, как я тогда сказал \"не люблю навязывать другим свою музыку\", но, скорее всего, это и было \"боюсь, что большинству она не понравится\". ",
+      "type": "text",
+      "width": 411,
+      "x": -48,
+      "y": 1303
+    },
+    {
+      "height": 179,
+      "id": "4ce6acffdaa15b3b",
+      "styleAttributes": {
+      },
+      "text": "Единственный способ, который мне помогал и который я придумал сам. Не использую из-за побочного эффекта",
+      "type": "text",
+      "width": 250,
+      "x": -389,
+      "y": 1075
+    },
+    {
+      "height": 149,
+      "id": "79451336a5c3123b",
+      "styleAttributes": {
+      },
+      "text": "Подумать, насколько значительна эта проблема в перспективе года, пяти лет, десяти лет",
+      "type": "text",
+      "width": 312,
+      "x": -599,
+      "y": 610
+    },
+    {
+      "height": 60,
+      "id": "5cfc0dc93bc4671a",
+      "styleAttributes": {
+      },
+      "text": "Способы борьбы",
+      "type": "text",
+      "width": 250,
+      "x": -750,
+      "y": 478
+    },
+    {
+      "height": 268,
+      "id": "c97047a929d2aca6",
+      "styleAttributes": {
+      },
+      "text": "Если вы постоянно спрашиваете у других их мнение, это может быть стремлением доказать себе, что другим не все равно на вашу жизнь, что они ею интересуются",
+      "type": "text",
+      "width": 250,
+      "x": -191,
+      "y": 551
+    },
+    {
+      "height": 50,
+      "id": "0c70b64ba8165d37",
+      "styleAttributes": {
+      },
+      "text": "Боязнь мнения окружающих",
+      "type": "text",
+      "width": 300,
+      "x": -341,
+      "y": 368
+    },
+    {
+      "height": 143,
+      "id": "d77c4941c388b2f9",
+      "styleAttributes": {
+      },
+      "text": "Понять, что других людей вы вообще не волнуете - [[Эффект прожектора]]",
+      "type": "text",
+      "width": 250,
+      "x": -1018,
+      "y": 250
+    },
+    {
+      "height": 84,
+      "id": "03112545af0e3c28",
+      "styleAttributes": {
+      },
+      "text": "Постоянный [[стресс]] и [[страх]] в прямом смысле",
+      "type": "text",
+      "width": 250,
+      "x": 113,
+      "y": 365
+    },
+    {
+      "height": 70,
+      "id": "ce09d21a17fba318",
+      "styleAttributes": {
+      },
+      "text": "Может быть причиной страха выглядеть глупо",
+      "type": "text",
+      "width": 250,
+      "x": 1038,
+      "y": 195
+    },
+    {
+      "height": 60,
+      "id": "09ef0e74b5f1520b",
+      "styleAttributes": {
+      },
+      "text": "Как исправить?",
+      "type": "text",
+      "width": 250,
+      "x": 188,
+      "y": 4
+    },
+    {
+      "height": 312,
+      "id": "b41c532c72dc69b4",
+      "styleAttributes": {
+      },
+      "text": "Продумайте все возможные негативные исходы и опровергните их значимость.\nНад вами посмеются, вам не помогут сделать дз и тд.\nПродумывайте именно конкретные последствия того, что о вас подумают плохо из за данного действия",
+      "type": "text",
+      "width": 349,
+      "x": -841,
+      "y": 923
+    },
+    {
+      "height": 69,
+      "id": "38a0c1dadd026aee",
+      "styleAttributes": {
+      },
+      "text": "[[Привычка задавать вопросы]]",
+      "type": "text",
+      "width": 250,
+      "x": -1403,
+      "y": 473
+    },
+    {
+      "height": 71,
+      "id": "89ee1b66b138925b",
+      "styleAttributes": {
+      },
+      "text": "Как я оцениваю себя в этой ситуации?",
+      "type": "text",
+      "width": 250,
+      "x": -1091,
+      "y": 467
+    },
+    {
+      "height": 273,
+      "id": "1e51b226289a8061",
+      "styleAttributes": {
+      },
+      "text": "Понять, что твои проблемы ничтожно малы по сравнению с миром и вселенной. Мы все умрем, и все наши проблемы окажутся забыты вселенной, они абсолютно не значительны в ее масштабе",
+      "type": "text",
+      "width": 303,
+      "x": -1018,
+      "y": 616
+    },
+    {
+      "height": 70,
+      "id": "139e881a02b17f07",
+      "styleAttributes": {
+      },
+      "text": "У меня нестабильная самооценка?",
+      "type": "text",
+      "width": 284,
+      "x": 711,
+      "y": 259
+    },
+    {
+      "height": 69,
+      "id": "5df3726b0bb87a1d",
+      "styleAttributes": {
+      },
+      "text": "Отсутствие уверенности в себе",
+      "type": "text",
+      "width": 308,
+      "x": 159,
+      "y": 125
+    },
+    {
+      "height": 60,
+      "id": "46871817ceb9c7cd",
+      "styleAttributes": {
+      },
+      "text": "Как исправить?",
+      "type": "text",
+      "width": 250,
+      "x": 781,
+      "y": 100
+    },
+    {
+      "height": 106,
+      "id": "c9d21161c84e1394",
+      "styleAttributes": {
+      },
+      "text": "Почему испытываю зависть к Кате и реже - к другим?",
+      "type": "text",
+      "width": 250,
+      "x": 299,
+      "y": 2420
+    },
+    {
+      "height": 145,
+      "id": "d7033d5b5c8938f3",
+      "styleAttributes": {
+      },
+      "text": "Solve using methods of [[Когнитивно-поведенческая терапия]]?",
+      "type": "text",
+      "width": 350,
+      "x": 286,
+      "y": 2172
+    },
+    {
+      "height": 214,
+      "id": "259ff49dad2ebc52",
+      "styleAttributes": {
+      },
+      "text": "Убеждение, что мне нельзя портить отношения с другими людьми часто всплывает в моей голове",
+      "type": "text",
+      "width": 250,
+      "x": 558,
+      "y": 4469
+    },
+    {
+      "height": 180,
+      "id": "0dab3a461a34914a",
+      "styleAttributes": {
+      },
+      "text": "Я боюсь иметь плохие отношения с человеком (если только он не враждебен ко мне и если он для меня как минимум нейтрален, то есть не раздражает меня и не злит)",
+      "type": "text",
+      "width": 380,
+      "x": 878,
+      "y": 4486
+    },
+    {
+      "height": 195,
+      "id": "305670a8d59842f1",
+      "styleAttributes": {
+      },
+      "text": "Манипуляции в виде “ты меня разочаровал”, “я от тебя такого не ожидал” сильно действуют на меня",
+      "type": "text",
+      "width": 250,
+      "x": 718,
+      "y": 4732
+    },
+    {
+      "height": 399,
+      "id": "24c1c36195551148",
+      "styleAttributes": {
+      },
+      "text": "наверное это является главным барьером в том, чтобы я делился с ней моментами, которые вызывают у меня негатив. Я боюсь, что она расстроится, держу микрообиду в себе, я обращаю на это слишком много внимания, думаю об этом слишком много, и негативные эмоции усиливаются",
+      "type": "text",
+      "width": 324,
+      "x": -580,
+      "y": 2331
+    },
+    {
+      "height": 300,
+      "id": "9be9ddbcd8e263aa",
+      "styleAttributes": {
+      },
+      "text": "Может быть, мои переживания из за ошибок связаны с тем, что я хочу закончить с красным аттестатом. Это обременяет меня, не дает быть в школе тем, кем я хочу быть, не дает просто учиться, не думая об оценках",
+      "type": "text",
+      "width": 320,
+      "x": 1735,
+      "y": 2440
+    },
+    {
+      "height": 106,
+      "id": "f207b6d73df1b037",
+      "styleAttributes": {
+      },
+      "text": "Причины переживания из за ошибки",
+      "type": "text",
+      "width": 290,
+      "x": 1430,
+      "y": 2997
+    },
+    {
+      "height": 196,
+      "id": "7132cae24740729b",
+      "styleAttributes": {
+      },
+      "text": "Этот симптом перетекл в чувство раздражения из за того, что у меня не получилось, а у кати - да",
+      "type": "text",
+      "width": 250,
+      "x": 1770,
+      "y": 2192
+    },
+    {
+      "height": 1058,
+      "id": "a608fdc8f14ea0b2",
+      "styleAttributes": {
+      },
+      "text": "[8/2/2023 1:25 AM] : у меня появляется чувство, что я использую тебя\n[8/2/2023 1:25 AM] : не знаю откуда это взялось, но мне постоянно хочется вернуть долг\n[8/2/2023 1:26 AM] : может это из за херни о справедливости, которая есть у меня в голове\n[8/2/2023 1:27 AM] : короче наверное это частный случай глубинных убеждений о справедливости\n[8/2/2023 1:29 AM] Катя: тебе неприятно, когда я делюсь с тобой чем-то? чем-то угощаю? это вызывает у тебя негатив?\n[8/2/2023 1:34 AM] : нет не сказал бы\n[8/2/2023 1:34 AM] : на самом деле в данном случае проблема только в деньгах\n[8/2/2023 1:34 AM] Катя: ты просто боишься, что они закончатся?\n[8/2/2023 1:35 AM] Катя: зачем тебе сейчас много денег\n[8/2/2023 1:37 AM] : если про эту ситуацию, то мое базовое, автоматическое или глубинное (не знаю) убеждение о деньгах применяется к тебе, и мне становится некомфортно, что я трачу твои деньги (по факту не так, ты тратишь свои деньги потому что хочешь, но эта рациональность как обычно не спасает), и возникает что то вроде чувства вины и желание это чувство убрать с помощью возвращения долга в том или ином виде, но это можно проинтерпретировать и с позиции восстановления справедливости, я пока не знаю, что вернее\n[8/2/2023 1:37 AM] : коплю на счастье\n[8/2/2023 1:41 AM] Иван Залевский: В детстве мама с папой ругались из за денег, и у него позиция была такая, консервативная, он обвинял маму в том, что она слишком много тратит,  и сейчас это тоже продолжается\n[8/2/2023 1:46 AM] : установка \"мне нельзя тратить деньги\"\n[8/2/2023 1:46 AM] : просто нельзя\n[8/2/2023 1:46 AM] : это слово хорошо подходит\n[8/2/2023 1:47 AM] : наверное даже не \"мне надо копить деньги\", а \"мне нельзя их тратить\"\n[8/2/2023 1:47 AM] : но это я так, мысли, может и не так все\n[8/2/2023 1:48 AM] : может и базовое убеждение это я должен копить как можно больше\n[8/2/2023 1:50 AM] : а чтобы большая зарплата была, я собираю на брокерском счету, чтобы зарабатывать еще и дивидендами\n[8/2/2023 1:51 AM] Катя: круто, что у тебя такая большая мотивация\n[8/2/2023 1:52 AM] Иван Залевский: Это уже не мотивация\n[8/2/2023 1:52 AM] Иван Залевский: Мотивация это осознанное  в момент решения\n[8/2/2023 1:52 AM] Иван Залевский: А я не осознаю\n[8/2/2023 1:52 AM] Иван Залевский: Это глубинное убеждение или привычка\n[8/2/2023 1:52 AM] Иван Залевский: Я на это не влияю\n[8/2/2023 1:52 AM] Иван Залевский: Это не мое как бы уже и не достойно похвалы",
+      "type": "text",
+      "width": 1040,
+      "x": -1269,
+      "y": 4100
+    },
+    {
+      "height": 351,
+      "id": "86ac8d33ddfc6fa2",
+      "styleAttributes": {
+      },
+      "text": "Например, на новый год 10 класса вв использовала такую, это вызвало во мне негатив, но я сразу распознал в этом манипуляцию и решил, что не буду поддаваться, так что это помогло почти избавится от эффекта, но все равно, каждый раз, когда я вспоминал ее слова, это вызывало во мне негатив, но его легко удавалось победить еще одним проговариванием того, что это манипуляиция и я не собираюсь поддаваться",
+      "type": "text",
+      "width": 469,
+      "x": 1024,
+      "y": 4732
+    },
+    {
+      "height": 312,
+      "id": "2664b993ec56b505",
+      "styleAttributes": {
+      },
+      "text": "Ситуацию с тем, что я должен возращать долг, можно проинтерпретировать как с позиции справедливости, так и с позиции отношения к деньгам (этот случай охватывает не все ситуации долга, так что его можно рассматривать только как дополнительный эффект для ситуаций с деньгами), так и с позиции того, что невозвращение долга испортит мои отношения с человеком и я получу от этого убытки",
+      "type": "text",
+      "width": 496,
+      "x": -42,
+      "y": 4420
+    },
+    {
+      "height": 312,
+      "id": "f67b11ea54861b83",
+      "styleAttributes": {
+      },
+      "text": "Получается, если [[Когнитивная модель|автоматические мысли]] является мысль о том, что что то несправедливо, это в разы усиливает или создает негативное переживание по поводу этого чего то",
+      "type": "text",
+      "width": 250,
+      "x": 280,
+      "y": 3528
+    },
+    {
+      "height": 250,
+      "id": "465c36747d878877",
+      "styleAttributes": {
+      },
+      "text": "Основное убеждение в том, что другие люди могут много помогать мне, а если я испорчу отношения с ними, они этого делать не будут",
+      "type": "text",
+      "width": 250,
+      "x": -42,
+      "y": 4802
+    },
+    {
+      "height": 289,
+      "id": "15b97f146d53cb14",
+      "styleAttributes": {
+      },
+      "text": "Много раз это убеждение опровергалось на практике, потому что отношения не портятся одним негативным случаем, и потому что даже при плохих отношениях можно получить помощь от человека, но это не помогает",
+      "type": "text",
+      "width": 354,
+      "x": 283,
+      "y": 4802
+    },
+    {
+      "height": 317,
+      "id": "23e64c60b12fc453",
+      "styleAttributes": {
+      },
+      "text": "Если перед каждой эмоцией идет мысль, то отслеживать мысли зависти у меня получается лучше всего, иногда я их прямо замечаю, например сегодня ощущения появились сразу после того, как в моей голове проскочила небольшая мысль, в которую я даже не вдумался",
+      "type": "text",
+      "width": 350,
+      "x": 689,
+      "y": 2526
+    },
+    {
+      "height": 342,
+      "id": "ebe91e8bb7922d0a",
+      "styleAttributes": {
+      },
+      "text": "Это чувство отличается от остальных, оно какое то кисло-горькое. Скорее всего для меня оно - самое худшее чувство из возможных, потому что очень часто оно направлено на Катю, и помимо того, что я допустил ошибку и из за нее переживаю, я начинаю испытывать зависть к Кате(реже к другим, почему?)",
+      "type": "text",
+      "width": 350,
+      "x": 689,
+      "y": 2146
+    },
+    {
+      "height": 80,
+      "id": "ccf71d89fc2eced1",
+      "styleAttributes": {
+      },
+      "text": "Others' victories equal my losses",
+      "type": "text",
+      "width": 250,
+      "x": 914,
+      "y": 2001
+    },
+    {
+      "height": 75,
+      "id": "58074df316626336",
+      "styleAttributes": {
+      },
+      "text": "The first step - recognizing the [[Когнитивная модель|автоматические мысли]]",
+      "type": "text",
+      "width": 493,
+      "x": 360,
+      "y": 2000
+    },
+    {
+      "height": 105,
+      "id": "f545693c2db3e646",
+      "styleAttributes": {
+      },
+      "text": "Скорее всего связано с чувством [[несправедливость]]и",
+      "type": "text",
+      "width": 250,
+      "x": 880,
+      "y": 3680
+    },
+    {
+      "height": 222,
+      "id": "33f08229638499cb",
+      "styleAttributes": {
+      },
+      "text": "скорее всего установка о несправедливости является [[Глубинные убеждения|глубинным убеждением]], потому что оно неосознанно влияет на большое количество [[Негативные эмоции]], которые я испытываю",
+      "type": "text",
+      "width": 406,
+      "x": 54,
+      "y": 3878
+    },
+    {
+      "height": 312,
+      "id": "498573e8d9d39d10",
+      "styleAttributes": {
+      },
+      "text": "Несмотря на то, что я знаю, что [[Справедливости и несправедливости не существует]], я все равно очень остро реагирую на кажущуюся несправедливость",
+      "type": "text",
+      "width": 250,
+      "x": -40,
+      "y": 3528
+    },
+    {
+      "height": 279,
+      "id": "d0f44a37cee5e98e",
+      "styleAttributes": {
+      },
+      "text": "(случай после медосмотра, когда мы ездили делать медкнижку). Я задал кате вопрос, который не подразумевал дальнейших расспросов и чего то такого, а который был основан на шутке, которая была у нас до этого, а катя ответила “не надо у меня об этом спрашивать пожалуйста” в шуточном тоне",
+      "type": "text",
+      "width": 461,
+      "x": -1920,
+      "y": 2545
+    },
+    {
+      "file": "Inbox/Негатив из-за проигрышей в игры.md",
+      "height": 640,
+      "id": "85dc150d775b8a0f",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 656,
+      "x": 1365,
+      "y": 3520
+    },
+    {
+      "height": 70,
+      "id": "caddb7abfbff5cdf",
+      "styleAttributes": {
+      },
+      "text": "Я боюсь привлекать к себе много внимания",
+      "type": "text",
+      "width": 250,
+      "x": 2423,
+      "y": 689
+    },
+    {
+      "height": 263,
+      "id": "78c76dfae6431e7b",
+      "styleAttributes": {
+      },
+      "text": "Экспозиция (техника из психотерапии): вводить себя в ситуации, где этот страх будет ощущаться не сильно. Так ты постепенно привыкнешь и не будешь его испытывать (https://www.youtube.com/watch?v=5h80YKCyiiU&ab_channel=%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D1%8F%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D0%B5%D1%86%D0%BA%D0%B0%D1%8F)",
+      "type": "text",
+      "width": 250,
+      "x": 2463,
+      "y": 839
+    },
+    {
+      "height": 143,
+      "id": "b215e707341d1b3c",
+      "styleAttributes": {
+      },
+      "text": "Может ли он быть из-за того, что я слишком сильно себя контролирую?",
+      "type": "text",
+      "width": 250,
+      "x": 2751,
+      "y": 688
+    },
+    {
+      "height": 105,
+      "id": "ec86d6a435ffcda5",
+      "styleAttributes": {
+      },
+      "text": "Обида в этот раз была вызвана чувством [[несправедливость]]",
+      "type": "text",
+      "width": 250,
+      "x": -1370,
+      "y": 2788
+    },
+    {
+      "height": 105,
+      "id": "a9487cc090f0d2f0",
+      "styleAttributes": {
+      },
+      "text": "хорошая статья, но пока не помогла - [Fetching Title#c74u](https://dzen.ru/a/YDwfOEm05yiQ1VG_)",
+      "type": "text",
+      "width": 250,
+      "x": -956,
+      "y": 2787
+    },
+    {
+      "height": 60,
+      "id": "21dedb9ef085cee0",
+      "styleAttributes": {
+      },
+      "text": "Обидчивость, moody",
+      "type": "text",
+      "width": 250,
+      "x": -1305,
+      "y": 2661
+    },
+    {
+      "height": 60,
+      "id": "2e39a836866d8354",
+      "styleAttributes": {
+      },
+      "text": "Принимаю все близко к сердцу",
+      "type": "text",
+      "width": 250,
+      "x": -999,
+      "y": 2661
+    },
+    {
+      "height": 290,
+      "id": "3c2f5cf8a9dd8893",
+      "styleAttributes": {
+      },
+      "text": "По факту я не обижаюсь, потому что продолжаю общаться, и улыбаюсь, чтобы не показать, что у меня испортилось настроение. Потому что я не смогу объяснить, из за чего оно испортилось. Нет, формальная причина есть, но это, чаще всего, настолько абсурдно, что выставить это как причину я не могу",
+      "type": "text",
+      "width": 402,
+      "x": -1365,
+      "y": 2331
+    },
+    {
+      "height": 60,
+      "id": "03514c5552d17ac6",
+      "styleAttributes": {
+      },
+      "text": "[[Обида|обидчивость]]",
+      "type": "text",
+      "width": 250,
+      "x": -874,
+      "y": 2555
+    },
+    {
+      "height": 141,
+      "id": "cc2ec443824f98cb",
+      "styleAttributes": {
+      },
+      "text": "К тому же, я не хочу, чтобы после этого настроение кати тоже портилось",
+      "type": "text",
+      "width": 250,
+      "x": -905,
+      "y": 2351
+    },
+    {
+      "height": 283,
+      "id": "dd0f46f5d4f1e874",
+      "styleAttributes": {
+      },
+      "text": "Я анализировал последствия тех действий, которых боялся, прорабатывал, что ничего страшного не случилось, значит и в следующий раз все будет нормально. Прошло уже очень много времени, но ничего не изменилось",
+      "type": "text",
+      "width": 330,
+      "x": 3249,
+      "y": 1552
+    },
+    {
+      "height": 70,
+      "id": "03a06254d203d07e",
+      "styleAttributes": {
+      },
+      "text": "Слишком высокие требования к себе?",
+      "type": "text",
+      "width": 250,
+      "x": 2751,
+      "y": 901
+    },
+    {
+      "height": 215,
+      "id": "d045a784c5261197",
+      "styleAttributes": {
+      },
+      "text": "Подмечать каждую ошибку других людей и говорить “ничего, ошибки бывают с каждым” (посоветовал Илья)",
+      "type": "text",
+      "width": 250,
+      "x": 2794,
+      "y": 3032
+    },
+    {
+      "height": 60,
+      "id": "11c6e3c78d771418",
+      "styleAttributes": {
+      },
+      "text": "не работает",
+      "type": "text",
+      "width": 250,
+      "x": 3490,
+      "y": 3307
+    },
+    {
+      "height": 251,
+      "id": "d6c7ece2d8653b18",
+      "styleAttributes": {
+      },
+      "text": "Попробовать реструктуризацию карандашон на бумаге, можно прямо во время урока. Катя сказала, что так это будет эффективнее",
+      "type": "text",
+      "width": 250,
+      "x": 3098,
+      "y": 3143
+    },
+    {
+      "height": 60,
+      "id": "eafdd8efe29a2649",
+      "styleAttributes": {
+      },
+      "text": "Дыхание квадрата",
+      "type": "text",
+      "width": 250,
+      "x": 3700,
+      "y": 3060
+    },
+    {
+      "height": 106,
+      "id": "7bd256fb0c0e1898",
+      "styleAttributes": {
+      },
+      "text": "Попробовать быстрый вдох и медленный выдох",
+      "type": "text",
+      "width": 250,
+      "x": 3418,
+      "y": 3037
+    },
+    {
+      "height": 215,
+      "id": "327e6235c77715a2",
+      "styleAttributes": {
+      },
+      "text": "Направление поиска - спосоы избавления от [[Негативные эмоции]], а не способы не переживать из за ошибок",
+      "type": "text",
+      "width": 250,
+      "x": 2373,
+      "y": 2983
+    },
+    {
+      "height": 236,
+      "id": "4317c34c59bbab4d",
+      "styleAttributes": {
+      },
+      "text": " я считаю себя лучше какого то человека, а когда этот человек начинает быть лучше меня (не один раз, а подряд и много), это начинает меня злить, возникает [[зависть]]",
+      "type": "text",
+      "width": 305,
+      "x": 1868,
+      "y": 2953
+    },
+    {
+      "height": 179,
+      "id": "f945c72a9781eda1",
+      "styleAttributes": {
+      },
+      "text": "Но страх никуда не ушел, он появляется, а таким образом я просто себя успокаиваю",
+      "type": "text",
+      "width": 250,
+      "x": 1763,
+      "y": 1656
+    },
+    {
+      "height": 342,
+      "id": "085391e080f190b7",
+      "styleAttributes": {
+      },
+      "text": "Переживание из за ошибки возникает только тогда, когда катя подобную ошибку не совершила. То есть моя автоматическая мысль находится в области “а у нее все правильно, я опять хуже, я не хочу быть хуже, почему я должен быть хуже, хотя мы прикладываем одинаковые усилия, это несправедливо”",
+      "type": "text",
+      "width": 360,
+      "x": 1100,
+      "y": 2355
+    },
+    {
+      "height": 60,
+      "id": "d996392aa01a4d7c",
+      "styleAttributes": {
+      },
+      "text": "Перфекционизм?",
+      "type": "text",
+      "width": 250,
+      "x": 3454,
+      "y": 2072
+    },
+    {
+      "height": 179,
+      "id": "75d7e4ad2319cdd7",
+      "styleAttributes": {
+      },
+      "text": "Требования определяются по ситуации, в которой проявляется перфекционизм",
+      "type": "text",
+      "width": 250,
+      "x": 3795,
+      "y": 2212
+    },
+    {
+      "height": 179,
+      "id": "ef0dbf18e930d2f0",
+      "styleAttributes": {
+      },
+      "text": "Выписать требования, предъявляемые к себе, снизить их на 50% и начать жить таким образом",
+      "type": "text",
+      "width": 250,
+      "x": 3487,
+      "y": 2212
+    },
+    {
+      "height": 286,
+      "id": "49836c0f70cc6273",
+      "styleAttributes": {
+      },
+      "text": "Все таки если я изолированно ото всех ошибусь в нейробиологии, это вызовет совсем другие чувства и даже может привести к моему росту, чем если бы я ошибся в нейробиологии, а катя нет. Дело скорее в сравнении, и возможно, в ощущении несправедливости (только гипотеза)",
+      "type": "text",
+      "width": 421,
+      "x": 2617,
+      "y": 1858
+    },
+    {
+      "height": 143,
+      "id": "6f904132f6ff361b",
+      "styleAttributes": {
+      },
+      "text": "Только из-за ошибок, связанных с мнением других и страхом выглядеть глупо?",
+      "type": "text",
+      "width": 250,
+      "x": 2492,
+      "y": 1650
+    },
+    {
+      "height": 429,
+      "id": "9b839ac5580b2b8e",
+      "styleAttributes": {
+      },
+      "text": "После ошибки у меня случается что то вроде микротрансов. Это происходит не после каждой ошибки. \nя вообще ухожу из мира, начинаю паниковать жестоко внутри, это именно чувство [[страх]]а и [[стресс]]а одновременно. Но с недавнего времени я научился их очень быстро заканчивать, но раньше они могли секунд 7 длиться или около того",
+      "type": "text",
+      "width": 323,
+      "x": 2109,
+      "y": 1610
+    },
+    {
+      "height": 107,
+      "id": "eeb7a4fe80d2db5d",
+      "styleAttributes": {
+      },
+      "text": "Могут быть причиной нестабильной самооценки",
+      "type": "text",
+      "width": 250,
+      "x": 1707,
+      "y": 1894
+    },
+    {
+      "height": 70,
+      "id": "2f2c1881ff40bd45",
+      "styleAttributes": {
+      },
+      "text": "Я боюсь выглядеть странно и глупо ([[страх]])",
+      "type": "text",
+      "width": 250,
+      "x": 2125,
+      "y": 689
+    },
+    {
+      "height": 215,
+      "id": "4fabbe15ba6dd17c",
+      "styleAttributes": {
+      },
+      "text": "Раньше этот страх был сильнее, но с начала года я каждый раз говорю себе “я буду ошибаться столько, сколько мне понадобится” и “это мое развитие”, так что ситуация немного облегчилась",
+      "type": "text",
+      "width": 365,
+      "x": 1706,
+      "y": 1326
+    },
+    {
+      "height": 143,
+      "id": "c0a6d7611aba1479",
+      "styleAttributes": {
+      },
+      "text": "Именно поэтому я испытываю все эти негативные ощущения, когда делаю что-то",
+      "type": "text",
+      "width": 250,
+      "x": 1717,
+      "y": 878
+    },
+    {
+      "height": 107,
+      "id": "324dc611c4dd6671",
+      "styleAttributes": {
+      },
+      "text": "Может являться причиной [[Стеснительность]]",
+      "type": "text",
+      "width": 250,
+      "x": 2125,
+      "y": 842
+    },
+    {
+      "height": 107,
+      "id": "f8b8e5a9a1604feb",
+      "styleAttributes": {
+      },
+      "text": "Базовые правила делания чего то странного на улице:",
+      "type": "text",
+      "width": 250,
+      "x": 5104,
+      "y": 39
+    },
+    {
+      "height": 70,
+      "id": "81ec1a40d0a8f155",
+      "styleAttributes": {
+      },
+      "text": "Тебе навстречу шли люди",
+      "type": "text",
+      "width": 250,
+      "x": 4979,
+      "y": 234
+    },
+    {
+      "height": 107,
+      "id": "6fa94e9362f055f5",
+      "styleAttributes": {
+      },
+      "text": "Этот страх ухудшает мой страх выглядеть глупо",
+      "type": "text",
+      "width": 250,
+      "x": 2271,
+      "y": 1373
+    },
+    {
+      "height": 347,
+      "id": "53627159c9b4b96d",
+      "styleAttributes": {
+      },
+      "text": "моя проблема заключается не в том, что я просто боюсь ошибаться. Там, где я ничего не знаю - физика - мне не сложно ошибиться, потому что я ничего не знаю и ответить правильно не должен по логике. Там же, где я думаю, что знаю, я хочу ответить правильно. Если я ошибаюсь в вопросе по нейробиологии, на которую потратил пару месяцев, я испытываю много негатива. Если я много ошибаюсь в русском, который я считал, что знаю хорошо, я чувствую негатив",
+      "type": "text",
+      "width": 469,
+      "x": 2240,
+      "y": 2215
+    },
+    {
+      "height": 143,
+      "id": "e852ab02a8d3dc2a",
+      "styleAttributes": {
+      },
+      "text": "Чем больше желание совершить действие, тем меньше значение мнения окружающих?",
+      "type": "text",
+      "width": 250,
+      "x": 3519,
+      "y": 64
+    },
+    {
+      "height": 143,
+      "id": "947b9192e530abec",
+      "styleAttributes": {
+      },
+      "text": "Сомнение в правильности собственных действий и/или в самом себе?",
+      "type": "text",
+      "width": 250,
+      "x": 3204,
+      "y": 65
+    },
+    {
+      "height": 107,
+      "id": "71dd7dd183593eb4",
+      "styleAttributes": {
+      },
+      "text": "Ты встречался с как можно большим числом людей глазами",
+      "type": "text",
+      "width": 250,
+      "x": 5304,
+      "y": 234
+    },
+    {
+      "height": 210,
+      "id": "61772c27e6d0feee",
+      "styleAttributes": {
+      },
+      "text": "Почти никогда реакции со стороны окружающих нет, это все только у меня в голове. Так же, как и со [[Стеснительность]]",
+      "type": "text",
+      "width": 250,
+      "x": 3204,
+      "y": 789
+    },
+    {
+      "height": 70,
+      "id": "48e478ec52969bf4",
+      "styleAttributes": {
+      },
+      "text": "Петь без наушников сложнее",
+      "type": "text",
+      "width": 250,
+      "x": 5604,
+      "y": 164
+    },
+    {
+      "height": 60,
+      "id": "4059879e08dd818a",
+      "styleAttributes": {
+      },
+      "text": "Пение на улице",
+      "type": "text",
+      "width": 250,
+      "x": 5761,
+      "y": 34
+    },
+    {
+      "height": 107,
+      "id": "152f40a1a1a0a1b4",
+      "styleAttributes": {
+      },
+      "text": "Сделать ссылку с психологической работой",
+      "type": "text",
+      "width": 250,
+      "x": 4370,
+      "y": -204
+    },
+    {
+      "height": 70,
+      "id": "6f2785c3b1196a45",
+      "styleAttributes": {
+      },
+      "text": "Петь русские песни сложнее",
+      "type": "text",
+      "width": 250,
+      "x": 5914,
+      "y": 164
+    },
+    {
+      "height": 935,
+      "id": "76b422bee843dc31",
+      "styleAttributes": {
+      },
+      "text": "[[Рефлексия]] в [[Канвас как средство мышления]]\nВыписываете все свои особенности характера, какие только вспоминаете. Выписываете все, что может касаться вашей текущей проблемы, все мелкие детали. Если их не хватает, берете на заметку и выесняете в ближайшем времени. Таким образом, вы создатите [[Кластер знаний]] о вашей психике (или характере, как угодно). Находя связи в нем, вы сможете наиболее эффективно решить свою проблему.\nСмотрите все видео на русском и английском ютубе по вашей проблеме, заносите ключевые идеи (даже очивидные) на карточки, по ходу соединяете их друг с другом.\nВсе, что касается какой то одной конкретной прооблемы, обособляете в группу. Далее вы будете соединять эту группу с другими карточками, заметками или группами.\nПродолжаете создавать карточки, соединять их между собой. Самое главное - смотреть, что может являться причиной чего-то, а что - следствием из чего то. Это все показываете стрелочками.\nСоздайте группу Гипотезы, в которую помещайте гипотезы и вопросы, соединенные с той карточкой, из за которой вам в голову пришел этот вопрос (у меня нестабильная самооценка? соедините с карточкой нестабильная самооценка). Соответственно, вам нужно будет создать группу нестабильная самооценка, куда так же насоздавать карточек из вашего опыта, каузально связанных с другими вашими карточками, а также посмотреть все, что вы найдете на ютубе по этой проблеме и вынести это в карточки, которые также связать с вашим опытом.\nСледующая задача - составить схему взаимовлияния всех ваших проблем. На этом этапе у вас должно быть какое то количество групп с названием каких то прооблем (например, боязнь мнения, низкая самооценка, чувство вины, страх пробовать новое и похожее). В группе гипотезы нужно создать маленькие карточки с названием всех ваших проблем, а затем соединить их стрелочками в схему (чувство вины приводит к низкой самооценке, та приводит к страху за мнение окружающих и боязни попробовать новое и т.п.). Таким образом вам станет понятно, что является первопричиной и с чем надо работать в первую очередь.\nДалее думаете, что может обусловливать ту проблему (или проблемы), которые являются причиной всех остальных проблем. Когда вы выясните это, повторите предыдущие пункты: создайте мини [[Кластер знаний]] из карточек в отдельной группе, свяжите их с другими карточками и группами, еще раз подумайте, что может быть уже его причиной. Если таковой нет, сконцентрируйтесь на решении этой проблемы.\n",
+      "type": "text",
+      "width": 869,
+      "x": 4061,
+      "y": -65
+    },
+    {
+      "height": 210,
+      "id": "133cca0710326b38",
+      "styleAttributes": {
+      },
+      "text": "Задача экспозиции - создать максимально большое количество ситуаций в разных контекстах с разной силой стимула",
+      "type": "text",
+      "width": 250,
+      "x": 1781,
+      "y": -2797
+    },
+    {
+      "height": 107,
+      "id": "0a8c14991cb7b06f",
+      "styleAttributes": {
+      },
+      "text": "Спонтанное возникновение проработанного страха",
+      "type": "text",
+      "width": 250,
+      "x": 1778,
+      "y": -3086
+    },
+    {
+      "height": 179,
+      "id": "a9154cdd649e1af8",
+      "styleAttributes": {
+      },
+      "text": "Нужно для отслеживания прогресса: в течение нескольких месяцев он будет очень хорошим",
+      "type": "text",
+      "width": 250,
+      "x": 1403,
+      "y": -1970
+    },
+    {
+      "height": 107,
+      "id": "7db4df3ed0ef9656",
+      "styleAttributes": {
+      },
+      "text": "человек постепенно привыкает к страшным стимулам",
+      "type": "text",
+      "width": 250,
+      "x": 1006,
+      "y": -2276
+    },
+    {
+      "height": 179,
+      "id": "e63473b544e52a8f",
+      "styleAttributes": {
+      },
+      "text": "Важно рисовать графики: по вертикали - сила тревожности, по горизонтали - время длительности",
+      "type": "text",
+      "width": 250,
+      "x": 1047,
+      "y": -2122
+    },
+    {
+      "height": 179,
+      "id": "6ceaabf155bda469",
+      "styleAttributes": {
+      },
+      "text": "Чем чаще практикуется экспозиция, тем менее активна [[Миндалина]] при взаимодействии с триггером",
+      "type": "text",
+      "width": 250,
+      "x": 1653,
+      "y": -2500
+    },
+    {
+      "height": 70,
+      "id": "47fa0d2fb3b62959",
+      "styleAttributes": {
+      },
+      "text": "Помогает преодалеть [[Страх]] и [[стресс]] от триггера",
+      "type": "text",
+      "width": 250,
+      "x": 1305,
+      "y": -2470
+    },
+    {
+      "height": 60,
+      "id": "13e89cdf424fad4e",
+      "styleAttributes": {
+      },
+      "text": "Как это работает",
+      "type": "text",
+      "width": 250,
+      "x": 1006,
+      "y": -2500
+    },
+    {
+      "height": 60,
+      "id": "c73cb4bc7e43b77d",
+      "styleAttributes": {
+      },
+      "text": "Экспозиция",
+      "type": "text",
+      "width": 250,
+      "x": 1006,
+      "y": -2378
+    },
+    {
+      "height": 268,
+      "id": "ebc8512b9d45021e",
+      "styleAttributes": {
+      },
+      "text": "Может использоваться при лечении [[Обсессивно-компульсивное расстройство(ОКР)]], панического стрессового растройства, посттравматического стрессового растройства",
+      "type": "text",
+      "width": 309,
+      "x": 1313,
+      "y": -2318
+    },
+    {
+      "height": 74,
+      "id": "d32a26eb859ca58c",
+      "styleAttributes": {
+      },
+      "text": "Начать можно с экспозиции в воображении",
+      "type": "text",
+      "width": 306,
+      "x": 575,
+      "y": -2544
+    },
+    {
+      "height": 107,
+      "id": "fdbd97f2b1d327e4",
+      "styleAttributes": {
+      },
+      "text": "Решение [[Когнитивный диссонанс]] как причина устранения фобии?",
+      "type": "text",
+      "width": 250,
+      "x": 978,
+      "y": -3193
+    },
+    {
+      "height": 179,
+      "id": "0a94126cd044e724",
+      "styleAttributes": {
+      },
+      "text": "Мое наблюдение: экспозиция может повышать общую [[стресс]]оустойчивость и [[Самоконтроль]]",
+      "type": "text",
+      "width": 250,
+      "x": 916,
+      "y": -2997
+    },
+    {
+      "height": 171,
+      "id": "982e48b0c161685d",
+      "styleAttributes": {
+      },
+      "text": "Старая модель - десенсибилизация (габитуация). Мы постепенно привыкаем к раздражающим стимулам. Авторы - Д. Уотсон, Д. Вольпе",
+      "type": "text",
+      "width": 355,
+      "x": 801,
+      "y": -2738
+    },
+    {
+      "height": 107,
+      "id": "dc53d61a88d62b14",
+      "styleAttributes": {
+      },
+      "text": "Чтобы человек как можно чаще определял стимул как неопасный",
+      "type": "text",
+      "width": 250,
+      "x": 2089,
+      "y": -2620
+    },
+    {
+      "file": "Base/Canvases/Попытка решить противоречие между желаниями в отношениях.canvas",
+      "height": 400,
+      "id": "18b20cf42258f4d2",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3343,
+      "y": -3393
+    },
+    {
+      "height": 60,
+      "id": "cdddaa127245d97b",
+      "styleAttributes": {
+      },
+      "text": "Градуированное",
+      "type": "text",
+      "width": 181,
+      "x": 825,
+      "y": -2050
+    },
+    {
+      "height": 107,
+      "id": "acb9359b3e2382c3",
+      "styleAttributes": {
+      },
+      "text": "Одна из главных техник [[Когнитивно-поведенческая терапия]]",
+      "type": "text",
+      "width": 250,
+      "x": 700,
+      "y": -2401
+    },
+    {
+      "height": 70,
+      "id": "2df4a92f8dacbc95",
+      "styleAttributes": {
+      },
+      "text": "Варианты экспозиции по количеству стимулов",
+      "type": "text",
+      "width": 250,
+      "x": 665,
+      "y": -2164
+    },
+    {
+      "height": 107,
+      "id": "3f6c6968ca052d91",
+      "styleAttributes": {
+      },
+      "text": "По современным данным менее эффективное",
+      "type": "text",
+      "width": 250,
+      "x": 915,
+      "y": -1926
+    },
+    {
+      "height": 297,
+      "id": "b63ba66ee69a6a78",
+      "styleAttributes": {
+      },
+      "text": "холодный душ и прочие негативные воздействия как метод тренировки [[Самоконтроль]] - вы учитесь контролировать ситуацию в определенных обстоятельствах, и вам легче делать это в других.\n[[Развитие самоконтроля]]",
+      "type": "text",
+      "width": 313,
+      "x": 568,
+      "y": -3114
+    },
+    {
+      "height": 143,
+      "id": "05713438c90b9f4a",
+      "styleAttributes": {
+      },
+      "text": "Ссылка на эксперимент с баскетболистами и проработкой в воображении",
+      "type": "text",
+      "width": 250,
+      "x": 540,
+      "y": -2760
+    },
+    {
+      "height": 145,
+      "id": "10c184bf2f63e748",
+      "styleAttributes": {
+      },
+      "text": "В ходе экспозиции данная ассоциация постепенно теряя свою силу, но она по прежнему существует",
+      "type": "text",
+      "width": 285,
+      "x": 1493,
+      "y": -2935
+    },
+    {
+      "height": 107,
+      "id": "1493b2203a15a73d",
+      "styleAttributes": {
+      },
+      "text": "В новом контексте стимул снова может вызвать [[страх]]",
+      "type": "text",
+      "width": 250,
+      "x": 1497,
+      "y": -2674
+    },
+    {
+      "height": 107,
+      "id": "5358cf5213153a96",
+      "styleAttributes": {
+      },
+      "text": "Основана на принципе затухания [[Условный рефлекс]]",
+      "type": "text",
+      "width": 250,
+      "x": 1372,
+      "y": -3158
+    },
+    {
+      "height": 268,
+      "id": "3c702a88cb95dc3f",
+      "styleAttributes": {
+      },
+      "text": "Когда происходит какое то травмирующее взаимодейтсвие, в голове появляется ассоциация действия (объекта) и опасности, угрозы. Появляется избигающее поведение",
+      "type": "text",
+      "width": 250,
+      "x": 1199,
+      "y": -2997
+    },
+    {
+      "height": 50,
+      "id": "41822bf44e9ad6d4",
+      "styleAttributes": {
+      },
+      "text": "Боязнь выглядеть глупо",
+      "type": "text",
+      "width": 272,
+      "x": 3256,
+      "y": -337
+    }
+  ]
+}

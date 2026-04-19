@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"text","text":"[[Изменение воспоминаний]]","id":"ab2ec9aab7fff21e","x":-714,"y":1484,"width":272,"height":70},
+		{"type":"file","file":"Base/Имплицитная теория личности.md","id":"44e33c54c3ed8695","x":-1365,"y":716,"width":397,"height":548},
+		{"type":"text","text":"Прочитать статью на вики","id":"642ec38900bd556e","x":-1299,"y":606,"width":266,"height":51},
+		{"type":"text","text":"[[Отношения]]","id":"9090dd82790a7e66","x":-1249,"y":1750,"width":250,"height":60},
+		{"type":"file","file":"Base/Негативные эмоции заставляют людей показывать свои истинные предрассудки.md","id":"560801f40cd94539","x":595,"y":197,"width":831,"height":968},
+		{"type":"file","file":"Base/Инфляция воображения.md","id":"693b17e28a75af9e","x":891,"y":1309,"width":895,"height":356},
+		{"id":"fa111d7e9dd8efff","x":320,"y":1416,"width":550,"height":497,"type":"file","file":"Base/Эскалация боли.md"},
+		{"type":"file","file":"Base/Нужно иметь рядом с собой несогласный с тобой людей.md","id":"13e47eca797886e9","x":-240,"y":-120,"width":660,"height":520},
+		{"id":"b99c24c952e35a98","x":-1324,"y":1960,"width":844,"height":800,"type":"file","file":"Base/Роль имплицитной теории в разрушении отношений.md"},
+		{"id":"ad1dae20d4d98282","x":-320,"y":1587,"width":472,"height":326,"type":"file","file":"Base/Редукция когнитивного диссонанса в начале отношений.md"}
+	],
+	"edges":[
+		{"id":"a78c78fdbc7e841c","fromNode":"642ec38900bd556e","fromSide":"bottom","toNode":"44e33c54c3ed8695","toSide":"top"}
+	]
+}

@@ -1,0 +1,22 @@
+# A perfect day for bananafish
+
+- Author - Jerome Salinger
+	- Like Zen buddism
+	- Participated in WW2
+		- Because of it was nervous breakdown
+	- Tense relationship with women
+	- Loneliness - key for achieving happiness
+		- It is about isolating from evil of the society
+- Structure
+	- Long exposition - the dialog between mother and daughter
+	- The climax - the very end - commit suicide in his wife presence
+		- is very short
+- Salingeresque style
+	- A lot of action description (ex. crossing legs, reading magazine etc.)
+	- Italicized words (*told* you, *he* drove)
+	- Incomplete sentences (There's no reason for-, just to-)
+	- Detached narrator (he is involved in dialog scene)
+	- Allegory (bananafish)
+- Colors
+	- Blu
+	- Yellow

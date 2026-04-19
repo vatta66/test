@@ -1,0 +1,27 @@
+# The Lumber room
+
+- Author - Hector Hugh Munro
+	- A master of irony and satire
+	- His texts are language-based
+	- Lost his mother at the age of 2
+	- Was raised by his strict religious aunts
+- Structure
+	- Exposition
+		- Nicolas being punished
+	- Rising action
+		- Nicolas trying to enter lumber-room
+	- Climax
+		- Nicolas talking to his aunt in rain-water tank
+	- Resolution
+		- Nicolas refuse to help his aunt
+- Characters
+	- Aunt - typical adult
+	- Nicolas - a child
+		- Stands aunt from other kids
+- Key words
+	- Disgrace
+	- Punishment
+	- Garden
+- Irony
+	- Children didnt enjoy the trip which meant to be punishment for Nicolas
+	- Aunt searched Nicolas in garden, but he wasnt there
